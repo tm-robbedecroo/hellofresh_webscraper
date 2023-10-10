@@ -3,6 +3,9 @@ from selenium.webdriver.common.by import By
 import json
 import time
 
+locale = 'us' #values: (be - hellofresh.be, us - hellofresh.com)
+pages  = 30   #values: (number - amount of pages loaded) (amount of recipes = pages * 8)
+
 class Recipe:
     def __init__(self, image_url, title, extra, duration, difficulty, categories):
         self.image_url = image_url
@@ -12,14 +15,16 @@ class Recipe:
         self.difficulty = difficulty
         self.categories = categories
 
-url = "https://www.hellofresh.be/recipes/populairste-recepten"
-browser = webdriver.Chrome()
-browser.get(url)
+url_be = "https://www.hellofresh.be/recipes/populairste-recepten"
+url_us = "https://www.hellofresh.com/recipes/most-popular-recipes"
 
-for i in range(50):
+browser = webdriver.Chrome()
+browser.get(url_us if locale == 'us' else url_be)
+
+for i in range(pages):
     buttons = browser.find_elements(By.CLASS_NAME, 'web-3205mz')
     for button in buttons:
-        if button.get_attribute('innerHTML') == 'Laad meerdere':
+        if button.get_attribute('innerHTML') == 'Load more' if locale == 'us' else 'Laad meerdere':
             try:
                 button.click()
                 time.sleep(1)

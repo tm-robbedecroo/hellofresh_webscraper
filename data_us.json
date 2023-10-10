@@ -1,0 +1,1203 @@
+[
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w08-r05-d05bdcfd.jpg",
+        "title": "Melty Monterey Jack Burger",
+        "extra": "with Red Onion Jam and Zucchini Fries",
+        "duration": "35 minutes",
+        "difficulty": "Medium",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/presto-pesto-panko-chicken-30681049.jpg",
+        "title": "Presto Pesto Panko Chicken",
+        "extra": "with a Green Salad and Roasted Potatoes",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/balsamic-glazed-meatloaves-b0a2a140.jpg",
+        "title": "Meatloaf Balsamico",
+        "extra": "with Mashed Sweet Potato and Green Beans",
+        "duration": "40 minutes",
+        "difficulty": "Medium",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/baked-penne-with-chicken-sausage-d986fb6c.jpg",
+        "title": "Perfect Penne Bake",
+        "extra": "with Chicken Sausage and Kale",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY",
+            "DINNER IDEAS"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/59b9a8caad1d6c5aea5502d2-99d97ac1.jpg",
+        "title": "Chicken Parm Salad",
+        "extra": "with Baby Spinach and a Creamy Lemon Dressing",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5a664231ad1d6c6f007d0d72-0c9bca71.jpg",
+        "title": "Teriyaki Chicken Tenders",
+        "extra": "with Jasmine Rice and Green Beans",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/creamy-dill-chicken-4c84cad4.jpg",
+        "title": "Creamy Dill Chicken",
+        "extra": "with Roasted Potatoes and Green Beans",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/chicken-paillard-w07-863dcd3d.jpg",
+        "title": "Lean Mean Chicken and Greens",
+        "extra": "with Rosemary Potatoes and Gremolata",
+        "duration": "30 minutes",
+        "difficulty": "Medium",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/rapid-shrimp-tacos-22d5dd1e.jpg",
+        "title": "Rapid Crispy Shrimp Tacos",
+        "extra": "with Crunchy Red Cabbage Slaw",
+        "duration": "20 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "EAT FIRST",
+            "RAPID"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/sweet-potato-and-black-bean-taco-f01d75dd.jpg",
+        "title": "Sweet Potato and Black Bean Tacos",
+        "extra": "with Avocado Crema",
+        "duration": "45 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "VEGGIE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/shrimp-and-zucchini-ribbons-e884f882.jpg",
+        "title": "Shrimp and Zucchini Ribbons",
+        "extra": "with Basil Oil over Jasmine Rice",
+        "duration": "25 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/rapid-butternut-squash-agnolotti-532104df.jpg",
+        "title": "Rapid Butternut Squash Agnolotti",
+        "extra": "with Kale in a Sage Brown Butter Sauce",
+        "duration": "20 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "RAPID",
+            "VEGGIE",
+            "DINNER IDEAS"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5a32a37fa5ed1909e30e2c32-87244615.jpg",
+        "title": "Buttered-Up Steak",
+        "extra": "with Roasted Potatoes and Garlicky Green Beans",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w11-premium-37e20c34.jpg",
+        "title": "Lobster Ravioli and Shrimp",
+        "extra": "with Heirloom Tomatoes and Tarragon Cream Sauce",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "EAT FIRST",
+            "CONTAINS SHELLFISH"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/creamy-shrimp-tagliatelle-2f7600a7.jpg",
+        "title": "Creamy Shrimp Tagliatelle",
+        "extra": "with Heirloom Tomatoes, Garlic, and Chili",
+        "duration": "20 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY",
+            "DINNER IDEAS"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5a7a31cf30006c47e0552392-501facb5.jpg",
+        "title": "Rib-Eye Steak Over Truffled Mashed Potatoes",
+        "extra": "with Green Beans Amandine",
+        "duration": "40 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/sizzling-hoisin-shrimp-0fbb61e2.jpg",
+        "title": "Sizzling Hoisin Shrimp",
+        "extra": "with Ginger Scallion Rice and Crispy Green Beans",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w10-r01-fb912be1.jpg",
+        "title": "Sweet-As-Honey Chicken",
+        "extra": "with Snow Peas over Jasmine Rice",
+        "duration": "30 minutes",
+        "difficulty": "Medium",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/59f0d1e0043c3c7ac363ba32-eca30d28.jpg",
+        "title": "Buttered-Up Steak",
+        "extra": "with Roasted Potatoes and Garlicky Green Beans",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w11-premium-107a7e54.jpg",
+        "title": "New York Strip Steak",
+        "extra": "with Truffled Mashed Potatoes and Green Beans Amandine",
+        "duration": "40 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/rapid-maple-balsamic-chicken-5f199275.jpg",
+        "title": "Rapid Maple Balsamic Chicken",
+        "extra": "with Sweet Potatoes and Broccoli",
+        "duration": "20 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "RAPID",
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/honey-glazed-pork-tenderloin-15e84f3a.jpg",
+        "title": "Honey-Glazed Pork Tenderloin",
+        "extra": "with Sweet Potatoes and Green Beans",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/teriyaki-salmon-6e0d7bee.jpg",
+        "title": "Teriyaki Salmon",
+        "extra": "with Green Beans and Jasmine Rice",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5a56229e043c3c5a6e5a1122-eb808107.jpg",
+        "title": "Crispy Cheddar Frico Cheeseburgers",
+        "extra": "with Caramelized Onion Jam and Roasted Broccoli",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w13-r1-a322796a.jpg",
+        "title": "Pan-Seared Chicken with Herbs De Provence",
+        "extra": "Over a Warm Farro, Mozzarella, and Tomato Jumble",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w12-r2-603adfac.jpg",
+        "title": "Sliced Steak Tagliata",
+        "extra": "with Sweet Potato Wedges and Warm Tomatoes in Vinaigrette",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/2019-w26-r15-cheddar-crusted-chicken-f46385e1.jpg",
+        "title": "Cheddar-Crusted Chicken",
+        "extra": "with Buttery Mashed Sweet Potatoes and Roasted Broccoli",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5e25f50779260e7a2945d952-a6d38e25.jpg",
+        "title": "Crispy Parmesan Chicken",
+        "extra": "Easy Cleanup",
+        "duration": "40 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "EASY",
+            "FAMILY FRIENDLY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/uk-garlic-farm-pork-teriyaki-351bb1a4.jpg",
+        "title": "Very Teriyaki Pork Tenderloin",
+        "extra": "with Basmati Rice and Asparagus",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/fig-and-brie-grilled-cheese-31750705.jpg",
+        "title": "Jammy Fig and Brie Grilled Cheese",
+        "extra": "with Arugula Mushroom Salad",
+        "duration": "25 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "VEGGIE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/classic-roasted-salmon-3e52c492.jpg",
+        "title": "Classic Roasted Salmon",
+        "extra": "with Crispy Potato Rounds and Dilled Veggies",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/herb-roasted-chicken-and-vegetab-86dfa152.jpg",
+        "title": "Oven Roasted Chicken",
+        "extra": "with Winter Veggies and Lemon Thyme Sauce",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5abd4661ae08b548c3090492-34c4170d.jpg",
+        "title": "Pork Carnitas Tacos",
+        "extra": "with Pickled Onion and Monterey Jack Cheese",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY",
+            "ONE PAN"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w08-r04-ef0655f7.jpg",
+        "title": "Pork D.I.Y. Dumplings",
+        "extra": "with Quick-Pickled Slaw and Soy Dipping Sauce",
+        "duration": "45 minutes",
+        "difficulty": "Hard",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/blackened-chicken-penne-a929e785.jpg",
+        "title": "Blackened Chicken Penne",
+        "extra": "with Charred Poblano and Monterey Jack Cheese",
+        "duration": "25 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/crushed-peppercorn-steak-b3ed7e3a.jpg",
+        "title": "Crushed Peppercorn Steak",
+        "extra": "with Creamed Kale and Potato Wedges",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5a32a65b30a03b52c12b9d82-11cf6f19.jpg",
+        "title": "Tropical Fish Tacos",
+        "extra": "with Mango Cabbage Slaw and Chipotle Crema",
+        "duration": "20 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/cherry-balsamic-pork-e28fb2db.jpg",
+        "title": "Cherry Balsamic Pork",
+        "extra": "with Thyme-Roasted Potatoes and Broccoli",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5de6dca5e52f114fe46dbbd9-218a7d3d.jpg",
+        "title": "Peppercorn-Gravy Steak",
+        "extra": "with Roasted Broccoli and Garlic Bread",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/uk-pan-fried-chicken-with-sweet--a849e8bc.jpg",
+        "title": "Do the Dukkah Chicken",
+        "extra": "with Sweet Potatoes and Snap Peas",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/figgy-balsamic-pork-53a88f74.jpg",
+        "title": "Figgy Balsamic Pork",
+        "extra": "with Roasted Green Beans and Rosemary Potatoes",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w10-r04-7f84744f.jpg",
+        "title": "Mustard Pork Chops and Potato Rosti",
+        "extra": "with Tender Green Beans",
+        "duration": "40 minutes",
+        "difficulty": "Medium",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/peppered-rib-eye-steak-0a297c17.jpg",
+        "title": "Peppered Rib-Eye Steak",
+        "extra": "with Truffled Mashed Potatoes and Green Beans Amandine",
+        "duration": "40 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE",
+            "ORGANIC"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/lobster-ravioli-and-shrimp-b5cd3fc6.jpg",
+        "title": "Lobster Ravioli and Shrimp",
+        "extra": "with Tomatoes and Tarragon Cream Sauce",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/teriyaki-steak-6ce73db1.jpg",
+        "title": "Teriyaki Steak",
+        "extra": "with Wasabi Mashed Potatoes & Roasted Broccoli",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5a6f445430006c79a749c0f2-d841beca.jpg",
+        "title": "One-Pan Orzo Italiano",
+        "extra": "with Chicken Sausage, Tomatoes, and Spinach",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w10-r03-c1efcbca.jpg",
+        "title": "Shrimp and Cheddar Grits",
+        "extra": "with Collard Greens and Tomatoes",
+        "duration": "30 minutes",
+        "difficulty": "Medium",
+        "categories": [
+            "EAT FIRST",
+            "GLUTEN-FREE",
+            "SPICY",
+            "CONTAINS SHELLFISH"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5abd494fae08b54b610ca122-8bfc3c25.jpg",
+        "title": "Sweet Potato and Black Bean Tacos",
+        "extra": "with Avocado Crema and Cilantro",
+        "duration": "40 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/winner-winner-chicken-orzo-dinner-040e9e2d.jpg",
+        "title": "Winner Winner Chicken Orzo Dinner",
+        "extra": "with Cheesy Roasted Zucchini and Tomatoes",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5deac7c58f5e5029d02151b0-a6d38e25.jpg",
+        "title": "Crispy Parmesan Chicken",
+        "extra": "with Garlic Herb Couscous & Lemony Roasted Green Beans",
+        "duration": "40 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "FAMILY FRIENDLY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w11-r1-286673cd.jpg",
+        "title": "Chicken Under a Zucchini Blanket",
+        "extra": "with Mashed Potatoes and Green Beans",
+        "duration": "30 minutes",
+        "difficulty": "Medium",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/buttered-up-steak-24af58c6.jpg",
+        "title": "Buttered-Up Steak",
+        "extra": "with Roasted Potatoes and Garlicky Green Beans",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5e430f8750a9d354d87026e3-e2fec9ba.jpg",
+        "title": "Sizzling Hoisin Shrimp",
+        "extra": "with Ginger Scallion Rice & Crispy Green Beans",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/sizzling-southwestern-chicken-eb3c2e46.jpg",
+        "title": "Sizzling Southwestern Chicken",
+        "extra": "with a Sweet Potato, Bell Pepper, and Feta Jumble",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/amazing-apricot-chicken-03f499c0.jpg",
+        "title": "Amazing Apricot Chicken",
+        "extra": "with Fingerling Potatoes and Green Beans",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/winner-winner-chicken-orzo-dinner-913e4616.jpg",
+        "title": "Winner Winner Chicken Orzo Dinner",
+        "extra": "with Cheesy Roasted Zucchini and Tomato",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/sugar-rubbed-pork-chops-115afb0b.jpg",
+        "title": "Sugar-Sweet Pork Chops",
+        "extra": "with Mixed Root Veggies",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE",
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5abd4797ae08b549e56a1502-fcb551c9.jpg",
+        "title": "Quick Beef Rag\u00f9 Spaghetti",
+        "extra": "with Zucchini and Italian Seasonings",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/pineapple-poblano-beef-tacos-b7badad1.jpg",
+        "title": "Pineapple Poblano Beef Tacos",
+        "extra": "with Lime Crema, Cilantro, and Warm Spices",
+        "duration": "20 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5a835f3730006c1cc342a132-fccbab64.jpg",
+        "title": "Crushed Peppercorn Steak",
+        "extra": "with Creamed Kale and Potato Wedges",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w08-r05-09def765.jpg",
+        "title": "Melty Monterey Jack Burger",
+        "extra": "with Red Onion Jam and Zucchini Fries",
+        "duration": "35 minutes",
+        "difficulty": "Medium",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/spring-tortellini-gratin-52816e28.jpg",
+        "title": "One-Pan Pesto Tortelloni Bake",
+        "extra": "with Asparagus and Parmesan",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "VEGGIE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/honey-glazed-pork-tenderloin-3d50de26.jpg",
+        "title": "Honey-Glazed Pork Tenderloin",
+        "extra": "with Sweet Potatoes and Green Beans",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w21-r1-8d51dd95.jpg",
+        "title": "Sriracha Turkey Burgers",
+        "extra": "with Sweet Potato Chips and Ginger-Dressed Greens",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5dfd0bae39b70a23332c4678-f7ebbc67.jpg",
+        "title": "Salsa Verde Chicken Enchiladas",
+        "extra": "with Mexican Cheese & Hot Sauce Crema",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/adobo-loco-steak-55f0d823.jpg",
+        "title": "Adobo Loco Steak",
+        "extra": "with a Poblano, Corn, and Crispy Potato Hash",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE",
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/lemon-pepper-chicken-linguine-669e3386.jpg",
+        "title": "Lemon Pepper Chicken Linguine",
+        "extra": "with Spinach and Parmesan",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/carolina-barbecue-chicken-19d826c7.jpg",
+        "title": "Carolina Barbecue Chicken",
+        "extra": "with Quick Stovetop Mac \u02bcn\u02bc Cheese and Green Beans",
+        "duration": "20 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/chicken-gyro-couscous-bowls-753b1e88.jpg",
+        "title": "Chicken Gyro Couscous Bowls",
+        "extra": "with Hummus, Tomato-Cucumber Salad, and Creamy Feta Sauce",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5a4e5d0a05346803da500ee2-c8c35e19.jpg",
+        "title": "Soy-Marinated Steak",
+        "extra": "with Peanut Satay Sauce and Crispy Broccoli",
+        "duration": "40 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5e0fae0d01b371403e4a535e-fc8c4904.jpg",
+        "title": "Parmesan-Crusted Chicken",
+        "extra": "Lightning Prep",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "QUICK",
+            "FAMILY FRIENDLY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/japanese-panko-chicken-d3561c2e.jpg",
+        "title": "Japanese Panko Chicken",
+        "extra": "with Sesame Green Beans and Tonkatsu-Style Sauce",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/herbed-sirloin-steak-dbd9fb0f.jpg",
+        "title": "Herbed Sirloin Steak",
+        "extra": "over Orzo Pasta Salad",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "DINNER IDEAS"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/crispy-chipotle-shrimp-tacos-f1dc347d.jpg",
+        "title": "Crispy Chipotle Shrimp Tacos",
+        "extra": "with Cabbage Slaw and Radishes",
+        "duration": "20 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/mushroom-ravioli-gratin-c1209ef7.jpg",
+        "title": "One-Pan Ravioli Gratin",
+        "extra": "with Mushrooms and Parmesan Breadcrumbs",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "VEGGIE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w19-r1-1fc88611.jpg",
+        "title": "Presto Pesto Panko Chicken",
+        "extra": "with a Green Salad and Roasted Potatoes",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w12-r3-ec15bc7f.jpg",
+        "title": "Thai-Spiced Pork and Rice Noodle Stir-Fry",
+        "extra": "with Mini Bell Peppers and Red Cabbage",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE",
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5a5ce42fad1d6c5ca7459502-aa41dbf4.jpg",
+        "title": "Pineapple Poblano Beef Tacos",
+        "extra": "with Lime Crema, Cilantro, and Warm Spices",
+        "duration": "20 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/uk-penne-all-arrabbiata-w07-500e5440.jpg",
+        "title": "Penne with a Kick",
+        "extra": "in a Pancetta-Tomato Arrabbiata Sauce",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/ginger-lime-salmon-96cd524b.jpg",
+        "title": "Ginger Lime Salmon",
+        "extra": "with Scallion Rice & Roasted Sesame Broccoli",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/2019-w23-r4-blackened-chicken-and-cajun-rice-bowls-ad35dae8.jpg",
+        "title": "Cajun Blackened Chicken and Rice Bowls",
+        "extra": "with Spicy Crema",
+        "duration": "40 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/chicken-and-spinach-salad-a67ea610.jpg",
+        "title": "Winner Winner Chicken Orzo Dinner",
+        "extra": "with Cheesy Roasted Veggies",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w14-r3-0b5dea88.jpg",
+        "title": "Creamy Mushroom Pork Chops",
+        "extra": "with Roasted Brussels Sprouts and Crispy Potatoes",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5d892eb94cc50f682c16db1f-5fcc421f.jpg",
+        "title": "Italian Chicken over Lemony Spaghetti",
+        "extra": "with Zucchini and Chili Flakes",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "FAMILY FRIENDLY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/teriyaki-beef-broccoli-ee729a07.jpg",
+        "title": "Teriyaki Beef &amp; Broccoli",
+        "extra": "Easy Cleanup",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "EASY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/2018w51r14-chicken-and-spaghetti-alfredo-with-a-twist-24608e2f.jpg",
+        "title": "Chicken and Spaghetti Alfredo With a Twist",
+        "extra": "with Tuscan Spices and Roasted Garlic Herb Butter",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/2019-w20-r15-chipotle-chicken-and-rice-bowl-d516c0bb.jpg",
+        "title": "Chipotle Chicken and Rice Bowl",
+        "extra": "with Roasted Sweet Potatoes and Salsa Fresca",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/mushroom-gravy-chicken-f00a4dd0.jpg",
+        "title": "Mushroom Gravy Chicken",
+        "extra": "over Couscous with Lemony Arugula",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/balsamic-glazed-meatloaves-de4745fd.jpg",
+        "title": "Meatloaf Balsamico",
+        "extra": "with Sweet Potato Mash and Green Beans",
+        "duration": "40 minutes",
+        "difficulty": "Medium",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/crispy-chicken-milanese-6ec4e9a4.jpg",
+        "title": "Crispy Chicken Milanese",
+        "extra": "with Yellow Squash and Lemony Arugula",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "DINNER IDEAS"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/homestyle-chicken-biscuit-pot-pie-0f887fa9.jpg",
+        "title": "Homestyle Chicken &amp; Biscuit Pot Pie",
+        "extra": "with Carrots, Celery & Fresh Thyme",
+        "duration": "50 minutes",
+        "difficulty": "Medium",
+        "categories": [
+            "ONE PAN"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/sweet-italian-sausages-with-freg-4b71ee76.jpg",
+        "title": "Sweet Italian Sausage",
+        "extra": "with Couscous and Spinach",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "DINNER IDEAS"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/steak-satay-with-peanut-sauce-w4-6d0b2f6b.jpg",
+        "title": "Thai Beef Skewers aka Satay",
+        "extra": "with Peanut Dipping Sauce, Broccoli, and Jasmine Rice",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/chicken-pineapple-quesadillas-bcede76b.jpg",
+        "title": "Chicken Pineapple Quesadillas",
+        "extra": "Easy Cleanup",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "EASY",
+            "FAMILY FRIENDLY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5a2b070da1e1ea5789611803-455ff912.jpg",
+        "title": "Sizzling Hoisin Shrimp",
+        "extra": "with Ginger Scallion Rice and Crispy Green Beans",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/2019-w24-r4-chicken-caesar-salad-915d0730.jpg",
+        "title": "Chicken Caesar Salad",
+        "extra": "with Parmesan Frico and Homemade Croutons",
+        "duration": "25 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/new-york-strip-steak-in-a-mushroom-sauce-4c580eb4.jpg",
+        "title": "New York Strip Steak in a Mushroom Sauce",
+        "extra": "with Roasted Baby Carrots and Caramelized Onion Mashed Potatoes",
+        "duration": "50 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/spicy-poblano-chili-57cda55f.jpg",
+        "title": "Classic Poblano Beef Chili",
+        "extra": "with Jack's Borlotti Beans",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE",
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/meatloaf-balsamico-d3c0f9c4.jpg",
+        "title": "Meatloaf Balsamico",
+        "extra": "with Sweet Potato Mash and Green Beans",
+        "duration": "40 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/cherry-balsamic-glazed-pork-0a469d42.jpg",
+        "title": "Cherry-and-Balsamic-Glazed Pork Chops",
+        "extra": "with Crispy Broccoli and Potatoes",
+        "duration": "30 minutes",
+        "difficulty": "Medium",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/2019-w26-r14-baja-chicken-quesadilla-e4f0ad1b.jpg",
+        "title": "Baja Chicken Quesadillas",
+        "extra": "with Salsa Fresca and Lime Crema",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/caramelized-onion-shepherd-s-pie-a3c34747.jpg",
+        "title": "Easy As (Shepherd's) Pie",
+        "extra": "with Caramelized Onions and Roasted Carrots",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w13-r4-4b4c75d1.jpg",
+        "title": "Lemongrass Pork Burgers",
+        "extra": "with Carrot Fries and Sriracha Mayo",
+        "duration": "30 minutes",
+        "difficulty": "Medium",
+        "categories": [
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/satay-chicken-stir-fry-6d97a7e3.jpg",
+        "title": "Satay Chicken Stir-Fry",
+        "extra": "with Peanut Sauce and Broccoli over Rice",
+        "duration": "40 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w13-r3-77bfdeb6.jpg",
+        "title": "Wasabi Lime Salmon",
+        "extra": "over Soy-Simmered Rice with Baby Bok Choy",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "EAT FIRST",
+            "GLUTEN-FREE",
+            "CONTAINS SHELLFISH",
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/58b4756c171c580762518792-c7efe2c5.jpg",
+        "title": "Prosciutto-Wrapped Chicken",
+        "extra": "Over Risotto Primavera",
+        "duration": "50 minutes",
+        "difficulty": "Medium",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/balsamic-fig-chicken-8c98838a.jpg",
+        "title": "Balsamic Fig Chicken",
+        "extra": "with Sweet Potatoes and Mixed Greens",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/buttered-up-steak-ee380dfa.jpg",
+        "title": "Buttered-Up Steak",
+        "extra": "with Roasted Potatoes and Garlicky Green Beans",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/mediterranean-chicken-bowls-420fd0df.jpg",
+        "title": "Mediterranean Chicken Bowls",
+        "extra": "with Couscous and Yogurt Sauce",
+        "duration": "20 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/w09-r03-5511142e.jpg",
+        "title": "Sweet \u2019N\u2019 Smoky Pork Chops",
+        "extra": "with Sweet Potato Wedges and a Brussels Sprout Hash",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE",
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/spinach-ricotta-ravioli-4a5f4db5.jpg",
+        "title": "Speedy Spinach Ricotta Ravioli",
+        "extra": "with Chicken Sausage and Tomatoes",
+        "duration": "20 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5a663e9751d3f10a650b7742-b8af0f62.jpg",
+        "title": "Carolina Barbecue Chicken",
+        "extra": "with Quick Stovetop Mac \u02bcn\u02bc Cheese and Green Beans",
+        "duration": "20 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/argentine-chimichurri-steak-b6046759.jpg",
+        "title": "Argentine Chimichurri Steak",
+        "extra": "with a Sweet Potato, Poblano, and Tomato Jumble",
+        "duration": "40 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE",
+            "SPICY"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5a32a2c430a03b4f29290302-324cad72.jpg",
+        "title": "Sweet-As-Honey Chicken",
+        "extra": "with Snow Peas over Jasmine Rice",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/italian-ciabatta-cheeseburgers-fb9efe2a.jpg",
+        "title": "Italian Ciabatta Cheeseburgers",
+        "extra": "with Mozzarella, Onion, and Balsamic Greens",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/crispy-breaded-tilapia-719d6b8e.jpg",
+        "title": "Crispy Breaded Tilapia",
+        "extra": "with Asparagus, Lemon Chive Sauce, and Ciabatta Toasts",
+        "duration": "20 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/2019-w23-r16-beef-tenderloin-with-brown-butter-roasted-veggies-adc43c82.jpg",
+        "title": "Beef Tenderloin with Brown Butter Roasted Veggies",
+        "extra": "and Cheesy Mashed Potatoes",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/cauliflower-bacon-mac-n-cheese-878314f7.jpg",
+        "title": "Cauliflower Bacon Mac 'N' Cheese",
+        "extra": "with Cavatappi Pasta",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/sliced-steak-tagliata-cbc9ad8c.jpg",
+        "title": "Sliced Steak Tagliata",
+        "extra": "with Sweet Potatoes, Green Beans, and Tomato Vinaigrette",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/creamy-mushroom-pork-chops-60763d57.jpg",
+        "title": "Creamy Mushroom Pork Chops",
+        "extra": "with Crispy Potatoes and Brussels Sprouts",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/creamy-dill-chicken-3fa9020f.jpg",
+        "title": "Creamy Dill Chicken",
+        "extra": "with Roasted Potatoes and Green Beans",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/pork-chops-with-cherry-pan-sauce-f9cc2cd2.jpg",
+        "title": "Cherry-Drizzled Pork Chops",
+        "extra": "with Couscous Salad",
+        "duration": "35 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/59f0d2bb7901f931f74f0492-74bc9d66.jpg",
+        "title": "Sizzling Hoisin Shrimp",
+        "extra": "with Ginger Scallion Rice and Crispy Green Beans",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/uk-thai-moo-pad-krapow-w03-ff651ba2.jpg",
+        "title": "Thai Pork Stir-Fry",
+        "extra": "with Mint and Ginger",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "GLUTEN-FREE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5ab3bdd9ae08b53fd3288602-072b8463.jpg",
+        "title": "\"Little Ears\" Pasta",
+        "extra": "with Italian Pork Sausage, Baby Broccoli, and Pesto",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "SPICY",
+            "DINNER IDEAS"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/oven-baked-parmesan-chicken-20c0d908.jpg",
+        "title": "Oven-Baked Parmesan Chicken",
+        "extra": "with Roasted Broccoli and Garlic Bread",
+        "duration": "25 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/lone-star-poblano-mac-cheese-e619241b.jpg",
+        "title": "Lone Star Poblano Mac &amp; Cheese",
+        "extra": "with a Crispy Panko Topping",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": [
+            "VEGGIE"
+        ]
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/5a7a2da0ae08b52bb24250e2-516aefcc.jpg",
+        "title": "Sweet-As-Honey Chicken",
+        "extra": "with Green Beans over Jasmine Rice",
+        "duration": "30 minutes",
+        "difficulty": "Easy",
+        "categories": []
+    }
+]
