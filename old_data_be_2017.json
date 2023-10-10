@@ -1,0 +1,1254 @@
+[
+    {
+        "title": "Champignonrisotto van orzo",
+        "extra": "Met walnoten en Parmezaans kaas",
+        "labels": [
+            "Veggie",
+            "Chef's Choice",
+            "Caloriebewust"
+        ],
+        "allergens": [
+            "Noten",
+            "Gluten",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "673 kcal",
+        "ingredients": [
+            "Ui",
+            "Bosui",
+            "Kastanjechampignons",
+            "Walnoten",
+            "Orzo",
+            "Geraspte parmigiano reggiano"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/champignonrisotto-van-orzo-f5a233b9.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/champignonrisotto-van-orzo-5854291cfb2bc69e0e8b456a-306832eb.pdf"
+    },
+    {
+        "title": "Fettuccine met warmgerookte makreel en cherrytomaten",
+        "extra": "Au poivron et \u00e0 l\u2019origan frais",
+        "labels": [
+            "Kindvriendelijk"
+        ],
+        "allergens": [
+            "Vis",
+            "Gluten",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "796 kcal",
+        "ingredients": [
+            "Gerookte makreel",
+            "Sjalot",
+            "Knoflookteen",
+            "Rode paprika",
+            "Rode cherrytomaten",
+            "Verse oregano",
+            "Fettuccine",
+            "Biologische cr\u00e8me fra\u00eeche"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/fettuccine-met-warmgerookte-makreel-en-cherrytomaten-a5f66be2.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/fettuccine-met-warmgerookte-makr-b9141fc8.pdf"
+    },
+    {
+        "title": "Gekonfijte kippendij met winterkost uit de oven",
+        "extra": "Accompagn\u00e9es de c\u00e9leri-rave",
+        "labels": [
+            "Kindvriendelijk"
+        ],
+        "allergens": [
+            "Selderij"
+        ],
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "649 kcal",
+        "ingredients": [
+            "Vastkokende aardappelen",
+            "Knolselderij",
+            "Venkel",
+            "Knoflookteen",
+            "Gedroogde rozemarijn",
+            "Kippenpoot"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/gekonfijte-kippendij-met-winterkost-uit-de-oven-884d4f09.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/gekonfijte-kippendij-met-winterk-d10c949b.pdf"
+    },
+    {
+        "title": "Tuna melt met bloemkool-knoflooksaus",
+        "extra": "\u00c0 base de pain plat et de cheddar",
+        "labels": [
+            "Vis",
+            "Gluten",
+            "Melk (inclusief lactose)"
+        ],
+        "allergens": [],
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "586 kcal",
+        "ingredients": [
+            "Bloemkool",
+            "Tonijn in olijfolie",
+            "Tomaat",
+            "Groene paprika",
+            "Wit platbrood",
+            "Geraspte cheddar",
+            "Knoflookteen"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tuna-melt-met-bloemkool-knoflooksaus-b6108af2.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/tuna-melt-met-bloemkool-knoflook-90f7f801.pdf"
+    },
+    {
+        "title": "Varkensreepjes met rijst, groente en zoetzure saus",
+        "extra": "Parfum\u00e9 \u00e0 la cardamome",
+        "labels": [
+            "Kindvriendelijk"
+        ],
+        "allergens": [],
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "730 kcal",
+        "ingredients": [
+            "Zilvervliesrijst",
+            "Rode ui",
+            "Tomatenpuree",
+            "Chinese groentemix",
+            "Varkenshaasreepjes met Indonesische kruiden",
+            "Gemalen kardemom"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/varkensreepjes-met-rijst-groente-en-zoetzure-saus-17600750.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/varkensreepjes-met-rijst-groente-94228bbf.pdf"
+    },
+    {
+        "title": "Zuurkoolstamppot met pastinaak, appel en pecannoten",
+        "extra": "Au fromage mi-vieux",
+        "labels": [
+            "Kindvriendelijk",
+            "Veggie"
+        ],
+        "allergens": [
+            "Noten",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "745 kcal",
+        "ingredients": [
+            "Kruimige aardappelen",
+            "Pastinaak",
+            "Appel",
+            "Pecannoten",
+            "Rozijnen",
+            "Zuurkool",
+            "Belegen kaasplakken"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/zuurkoolstamppot-met-pastinaak-appel-en-pecannoten-3d6b461a.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/zuurkoolstamppot-met-pastinaak-a-aef80330.pdf"
+    },
+    {
+        "title": "Bulgur-linzensalade met avocado, blauwe kaas en amandelen",
+        "extra": "Cr\u00e9meux et relev\u00e9 \u00e0 la fois",
+        "labels": [
+            "Pittig",
+            "Veggie"
+        ],
+        "allergens": [
+            "Gluten",
+            "Amandelnoten",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "803 kcal",
+        "ingredients": [
+            "Groene linzen",
+            "Bulgur",
+            "Rode ui",
+            "Amandelschaafsel",
+            "Avocado",
+            "Mesclun",
+            "Danablu"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/bulgur-linzensalade-met-avocado-blauwe-kaas-en-amandelen-c565759d.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/bulgur-linzensalade-met-avocado-fec73c43.pdf"
+    },
+    {
+        "title": "Venkel-preisoep met walnotenbrood en gekookt ei",
+        "extra": "Parfait pour se r\u00e9chauffer",
+        "labels": [
+            "Kindvriendelijk",
+            "Veggie"
+        ],
+        "allergens": [
+            "Mosterd",
+            "Eieren",
+            "Gluten",
+            "Noten",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "568 kcal",
+        "ingredients": [
+            "Kruimige aardappelen",
+            "Knoflookteen",
+            "Venkel",
+            "Prei",
+            "Geel mosterdzaad",
+            "Ei",
+            "Bruin rozijnen-walnotenbroodje",
+            "Verse bieslook"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/venkel-preisoep-met-walnotenbrood-en-gekookt-ei-29347a41.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/venkel-preisoep-met-walnotenbroo-d66c5840.pdf"
+    },
+    {
+        "title": "Thaise noedels met snijbonen en pikante honingpinda\u2019s",
+        "extra": "Un classique tha\u00ef aux morceaux d\u2019omelette et \u00e0 la coriandre",
+        "labels": [
+            "Pittig",
+            "Veggie"
+        ],
+        "allergens": [
+            "Gluten",
+            "Eieren",
+            "Soja",
+            "Pinda's",
+            "Noten",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "514 kcal",
+        "ingredients": [
+            "Knoflookteen",
+            "Rode peper",
+            "Snijbonen",
+            "Bosui",
+            "Verse koriander",
+            "Gemalen citroengras",
+            "Noedels",
+            "Ei",
+            "Sojasaus",
+            "Pikante honingpinda's"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/thaise-noedels-met-snijbonen-en-pikante-honingpinda-s-ff408807.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/thaise-noedels-met-snijbonen-en-37aa1bd1.pdf"
+    },
+    {
+        "title": "Schelvisfilet met broccoli en frisse aardappel-dillepuree",
+        "extra": "",
+        "labels": [
+            "Pittig"
+        ],
+        "allergens": [
+            "Vis",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "477 kcal",
+        "ingredients": [
+            "Kruimige aardappelen",
+            "Ui",
+            "Champignons",
+            "Verse dille",
+            "Schelvisfilet",
+            "Naturel yoghurt"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/schelvisfilet-met-broccoli-en-frisse-aardappel-dillepuree-c068ce96.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/schelvisfilet-met-broccoli-en-fr-7969a051.pdf"
+    },
+    {
+        "title": "Gekruide biefstukreepjes met paksoi-nasi en komkommer",
+        "extra": "Aux cacahu\u00e8tes et \u00e0 la carotte",
+        "labels": [
+            "Kindvriendelijk"
+        ],
+        "allergens": [
+            "Pinda's",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "35 minuten",
+        "difficulty": "Makkelijk",
+        "kcal": "708 kcal",
+        "ingredients": [
+            "Zilvervliesrijst",
+            "Knoflookteen",
+            "Komkommer",
+            "Wortel",
+            "Paksoi",
+            "Pinda's",
+            "Gekruide biefstukreepjes"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/gekruide-biefstukreepjes-met-paksoi-nasi-en-komkommer-12797e5d.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/gekruide-biefstukreepjes-met-pak-2454cc12.pdf"
+    },
+    {
+        "title": "Pikante harissacouscous met feta en olijven",
+        "extra": "\u00c0 l\u2019aubergine et \u00e0 la tomate",
+        "labels": [
+            "Pittig",
+            "Veggie"
+        ],
+        "allergens": [
+            "Gluten",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "615 kcal",
+        "ingredients": [
+            "Ui",
+            "Aubergine",
+            "Tomaat",
+            "Verse tijm",
+            "Verse koriander",
+            "Zwarte olijven",
+            "Tomatenpuree",
+            "Harissa",
+            "Volkoren couscous",
+            "Feta"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pikante-harissacouscous-met-feta-en-olijven-e998c7a8.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/pikante-harissacouscous-met-feta-844cb3d8.pdf"
+    },
+    {
+        "title": "Gebakken roodbaarsfilet met flowersproutsalade en krieltjes",
+        "extra": "Avec une vinaigrette \u00e0 la moutarde et \u00e0 la menthe",
+        "labels": [
+            "Vis",
+            "Melk (inclusief lactose)"
+        ],
+        "allergens": [],
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "689 kcal",
+        "ingredients": [
+            "Roodbaarsfilet met huid",
+            "Vastkokende aardappelen",
+            "Rode ui",
+            "Appel",
+            "Verse munt",
+            "Kalettes"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/gebakken-roodbaarsfilet-met-flowersproutsalade-en-krieltjes-32037a7c.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/gebakken-roodbaarsfilet-met-flow-9c0a481a.pdf"
+    },
+    {
+        "title": "Japanse noedelsoep met kipfilet en kastanjechampignons",
+        "extra": "Au gingembre et au piment rouge",
+        "labels": [
+            "Gluten",
+            "Soja"
+        ],
+        "allergens": [],
+        "duration": "25 minuten",
+        "difficulty": "Makkelijk",
+        "kcal": "484 kcal",
+        "ingredients": [
+            "Verse gember",
+            "Rode peper",
+            "Kastanjechampignons",
+            "Paksoi",
+            "Kipfilet",
+            "Verse udonnoedels",
+            "Sojasaus"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/japanse-noedelsoep-met-kipfilet-81302264.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/japanse-noedelsoep-met-kipfilet-446976d4.pdf"
+    },
+    {
+        "title": "Romige pasta pesto met groente en kruidenroomkaas",
+        "extra": "Tr\u00e8s facile \u00e0 pr\u00e9parer",
+        "labels": [
+            "Veggie"
+        ],
+        "allergens": [
+            "Gluten",
+            "Melk (inclusief lactose)",
+            "Noten"
+        ],
+        "duration": "25 minuten",
+        "difficulty": "Makkelijk",
+        "kcal": "659 kcal",
+        "ingredients": [
+            "Volkoren casarecce",
+            "Knoflookteen",
+            "Groentemix",
+            "Kruidenroomkaas",
+            "Groene pesto"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/romige-pasta-pesto-met-groente-en-kruidenroomkaas-6024b663.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/romige-pasta-pesto-met-groente-en-kruidenroomkaas-3bbb12d2.pdf"
+    },
+    {
+        "title": "Linzencurry met venkel en ei",
+        "extra": "\u00c0 l\u2019anis \u00e9toil\u00e9",
+        "labels": [
+            "Pittig",
+            "Veggie"
+        ],
+        "allergens": [
+            "Gluten",
+            "Soja",
+            "Melk (inclusief lactose)",
+            "Eieren"
+        ],
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "719 kcal",
+        "ingredients": [
+            "Sjalot",
+            "Groene linzen",
+            "Rode currypasta",
+            "Kokosmelk",
+            "Steranijs",
+            "Basmatirijst",
+            "Venkel",
+            "Gele paprika",
+            "Ei",
+            "Sojasaus"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/linzencurry-met-venkel-en-ei-615d5210.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/linzencurry-met-venkel-en-ei-ad8a609d.pdf"
+    },
+    {
+        "title": "Gele paprika-maissoep met feta, pompoenpitten en naanbrood",
+        "extra": "L\u00e9g\u00e8rement relev\u00e9e gr\u00e2ce au cumin et \u00e0 la coriandre moulue",
+        "labels": [
+            "Kindvriendelijk",
+            "Veggie"
+        ],
+        "allergens": [
+            "Gluten",
+            "Tarwe",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "30 minuten",
+        "difficulty": "Makkelijk",
+        "kcal": "691 kcal",
+        "ingredients": [
+            "Knoflookteen",
+            "Gele paprika",
+            "Mais",
+            "Pompoenpitten",
+            "Gemalen komijnzaad",
+            "Gemalen korianderzaad",
+            "Naanbrood",
+            "Verse bieslook",
+            "Feta"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/gele-paprika-maissoep-met-feta-pompoenpitten-en-naanbrood-472779a6.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/gele-paprika-maissoep-met-feta-pompoenpitten-en-naanbrood-2d52085a.pdf"
+    },
+    {
+        "title": "Ovenschotel met bataat en geitenkaas",
+        "extra": "Avec la douceur de l\u2019aubergine",
+        "labels": [
+            "Kindvriendelijk",
+            "Veggie"
+        ],
+        "allergens": [
+            "Eieren",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "45 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "599 kcal",
+        "ingredients": [
+            "Zoete aardappel",
+            "Aubergine",
+            "Ui",
+            "Knoflookteen",
+            "Spinazie",
+            "Geitenkaas, geraspt"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/ovenschotel-met-bataat-en-geitenkaas-e3a001f0.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/ovenschotel-met-bataat-en-geitenkaas-377b331b.pdf"
+    },
+    {
+        "title": "Caserecce integrale met warmgerookte zalm en citroentijm",
+        "extra": "Avec une vari\u00e9t\u00e9 de courgette unique",
+        "labels": [
+            "Kindvriendelijk"
+        ],
+        "allergens": [
+            "Gluten",
+            "Vis"
+        ],
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "622 kcal",
+        "ingredients": [
+            "Volkoren casarecce",
+            "Rucola",
+            "Rode ui",
+            "Warmgerookte zalm",
+            "Witte courgette",
+            "Verse citroentijm"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/caserecce-integrale-met-warmgerookte-zalm-en-citroentijm-5ea4e037.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/caserecce-integrale-met-warmgero-768db129.pdf"
+    },
+    {
+        "title": "Rundertartaar met gekarameliseerde witlof en aardappelen",
+        "extra": "Accompagn\u00e9 de tomates jaunes et rouges semi-s\u00e9ch\u00e9es",
+        "labels": [
+            "Kindvriendelijk"
+        ],
+        "allergens": [
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "601 kcal",
+        "ingredients": [
+            "Vastkokende aardappelen",
+            "Witlof",
+            "Zongedroogde tomaten",
+            "Mesclun",
+            "Rundertartaar"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/rundertartaar-met-gekarameliseerde-witlof-en-aardappelen-d127cc23.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/rundertartaar-met-gekarameliseer-46ba8d61.pdf"
+    },
+    {
+        "title": "Quinoa met rode biet, komkommer en pecannoten",
+        "extra": "Avec le piquant du cresson",
+        "labels": [
+            "Veggie"
+        ],
+        "allergens": [
+            "Noten"
+        ],
+        "duration": "35 minuten",
+        "difficulty": "Moeilijk",
+        "kcal": "503 kcal",
+        "ingredients": [
+            "Quinoa",
+            "Ui",
+            "Champignons",
+            "Gekookte rode bieten",
+            "Komkommer",
+            "Pecannoten",
+            "Tuinkers"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/quinoa-met-rode-biet-komkommer-en-pecannoten-6ec0ccb6.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/quinoa-met-rode-biet-komkommer-e-e20cc57a.pdf"
+    },
+    {
+        "title": "Kruidige harissa-bulgur met pompoenblokjes en zeebaarsfilet",
+        "extra": "Accompagn\u00e9 de tomates",
+        "labels": [
+            "Kindvriendelijk",
+            "Pittig"
+        ],
+        "allergens": [
+            "Gluten",
+            "Vis"
+        ],
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "431 kcal",
+        "ingredients": [
+            "Ui",
+            "Tomaat",
+            "Bulgur",
+            "Harissa",
+            "Pompoenblokjes",
+            "Zeebaarsfilet met huid"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/kruidige-harissa-bulgur-met-pompoenblokjes-en-zeebaarsfilet-ea19d4b1.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/kruidige-harissa-bulgur-met-pomp-b22097da.pdf"
+    },
+    {
+        "title": "Spinazie-broccolisoep met kipfilet en ricotta",
+        "extra": "Accompagn\u00e9e d\u2019une ciabatta grise",
+        "labels": [
+            "Kindvriendelijk"
+        ],
+        "allergens": [
+            "Gluten",
+            "Soja",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "538 kcal",
+        "ingredients": [
+            "Champignons",
+            "Gedroogde tijm",
+            "Spinazie",
+            "Kipfiletstukjes",
+            "Bruine ciabatta",
+            "Ricotta"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spinazie-broccolisoep-met-kipfilet-en-ricotta-c993d88a.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/spinazie-broccolisoep-met-kipfil-649b0092.pdf"
+    },
+    {
+        "title": "Orzo met courgette, romatrostomaten en gruy\u00e8re",
+        "extra": "Au romarin et aux pignons de pin",
+        "labels": [
+            "Kindvriendelijk",
+            "Veggie"
+        ],
+        "allergens": [
+            "Gluten",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "687 kcal",
+        "ingredients": [
+            "Sjalot",
+            "Knoflookteen",
+            "Courgette",
+            "Mini-romatomaten",
+            "Orzo",
+            "Pijnboompitten",
+            "Gedroogde rozemarijn",
+            "Geraspte gruy\u00e8re"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/orzo-met-courgette-romatrostomaten-en-gruyere-5236132c.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/orzo-met-courgette-romatrostomat-4489fa99.pdf"
+    },
+    {
+        "title": "Aziatische groentemix, noedels, ei en cashewnoten",
+        "extra": "Aux jeunes oignons et au jus de citron vert",
+        "labels": [
+            "Kindvriendelijk",
+            "Veggie"
+        ],
+        "allergens": [
+            "Gluten",
+            "Soja",
+            "Eieren",
+            "Pinda's",
+            "Noten"
+        ],
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "694 kcal",
+        "ingredients": [
+            "Groentemix",
+            "Knoflookteen",
+            "Bosui",
+            "Limoen",
+            "Gemalen citroengras",
+            "Sojasaus",
+            "Ei",
+            "Noedels",
+            "Cashewnoten"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/aziatische-groentemix-noedels-ei-en-cashewnoten-7619a44d.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/aziatische-groentemix-noedels-ei-cffa0719.pdf"
+    },
+    {
+        "title": "Gevulde portobello met bataat-linzensalade",
+        "extra": "Au thym frais",
+        "labels": [
+            "Kindvriendelijk",
+            "Veggie"
+        ],
+        "allergens": [
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "703 kcal",
+        "ingredients": [
+            "Groene linzen",
+            "Verse tijm",
+            "Zoete aardappel",
+            "Rode paprika",
+            "Feta",
+            "Portobello",
+            "Rucolamelange"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/gevulde-portobello-met-bataat-linzensalade-86606ebf.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/gevulde-portobello-met-bataat-li-e5192813.pdf"
+    },
+    {
+        "title": "Pitabroodjes met kalkoenshoarma, gele peen en yoghurt",
+        "extra": "Avec la fra\u00eecheur de la m\u00e2che",
+        "labels": [
+            "Kindvriendelijk"
+        ],
+        "allergens": [
+            "Gluten",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "25 minuten",
+        "difficulty": "Makkelijk",
+        "kcal": "786 kcal",
+        "ingredients": [
+            "Gele wortel",
+            "Prei",
+            "Kalkoenshoarma",
+            "Mini-pitabroodjes",
+            "Veldsla",
+            "Naturel yoghurt"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pitabroodjes-met-kalkoenshoarma-gele-peen-en-yoghurt-3edd7fb2.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/pitabroodjes-met-kalkoenshoarma-d87a76f4.pdf"
+    },
+    {
+        "title": "Rijstkom met knapperige groenten, sesamzaadjes en pinda\u2019s",
+        "extra": "\u00c0 l\u2019avocat et au navet",
+        "labels": [
+            "Veggie"
+        ],
+        "allergens": [
+            "Sesamzaad",
+            "Gluten",
+            "Soja",
+            "Pinda's"
+        ],
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "689 kcal",
+        "ingredients": [
+            "Rode ui",
+            "Meiraap",
+            "Pandanrijst",
+            "Sesamzaad",
+            "Groentemix",
+            "Sojasaus",
+            "Avocado",
+            "Pinda's"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/rijstkom-met-knapperige-groenten-b788b134.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/rijstkom-met-knapperige-groenten-9a69757b.pdf"
+    },
+    {
+        "title": "Wildzwijnworst met spruiten en peen uit de oven",
+        "extra": "",
+        "labels": [
+            "Melk (inclusief lactose)"
+        ],
+        "allergens": [],
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "714 kcal",
+        "ingredients": [
+            "Kruimige aardappelen",
+            "Knoflookteen",
+            "Wortel",
+            "Spruiten",
+            "Gedroogde tijm",
+            "Handsinaasappel",
+            "Wildzwijn-rundersaucijs"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/58765b3f2e69d741bd762dfb-c15efe45.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/wildzwijnworst-met-spruiten-en-peen-uit-de-oven-62311251.pdf"
+    },
+    {
+        "title": "Lasagne bianco met kastanjechampignons en oude kaas",
+        "extra": "Au chou-fleur et \u00e0, l'oignon",
+        "labels": [
+            "Veggie"
+        ],
+        "allergens": [
+            "Melk (inclusief lactose)",
+            "Gluten",
+            "Eieren"
+        ],
+        "duration": "45 minuten",
+        "difficulty": "Moeilijk",
+        "kcal": "756 kcal",
+        "ingredients": [
+            "Bloemkool",
+            "Ui",
+            "Knoflookteen",
+            "Kastanjechampignons",
+            "Gedroogde rozemarijn",
+            "Kookroom",
+            "Belegen kaasplakken",
+            "Lasagnebladen"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/58765b402e69d741bd762dfc-37d6c259.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/lasagne-bianco-met-kastanjechampignons-en-oude-kaas-6b138dc1.pdf"
+    },
+    {
+        "title": "Aziatische noedels met gemarineerde verse makreelfilet",
+        "extra": "",
+        "labels": [
+            "Caloriebewust"
+        ],
+        "allergens": [
+            "Gluten",
+            "Soja",
+            "Vis"
+        ],
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "554 kcal",
+        "ingredients": [
+            "Rode peper",
+            "Verse gember",
+            "Sojasaus",
+            "Vissaus",
+            "Verse makreelfilet met huid",
+            "Rode paprika",
+            "Venkel",
+            "Rode ui",
+            "Noedels"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/587664206121bb7c8c27fac2-fa20916b.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/aziatische-noedels-met-gemarineerde-verse-makreelfilet-52ff4096.pdf"
+    },
+    {
+        "title": "Spaghetti bolognese met groente en zonnebloempitten",
+        "extra": "",
+        "labels": [
+            "Kindvriendelijk"
+        ],
+        "allergens": [
+            "Gluten",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "742 kcal",
+        "ingredients": [
+            "Knoflookteen",
+            "Vleestomaat",
+            "Rundergehakt",
+            "Italiaanse groentemix",
+            "Verse oregano",
+            "Tomatenpuree",
+            "Volkoren spaghetti",
+            "Zonnebloempitten"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/587664226121bb7c8c27fac3-5ccc8c77.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/spaghetti-bolognese-met-groente-en-zonnebloempitten-6b87a855.pdf"
+    },
+    {
+        "title": "Salade van spinazie en bataat met hazelnoot-dukkah en feta",
+        "extra": "",
+        "labels": [
+            "Veggie"
+        ],
+        "allergens": [
+            "Noten",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "30 minuten",
+        "difficulty": "Makkelijk",
+        "kcal": "739 kcal",
+        "ingredients": [
+            "Zoete aardappel",
+            "Knoflookteen",
+            "Verse tijm",
+            "Verse bladpeterselie",
+            "Hazelnoten",
+            "Tomaat",
+            "Spinazie",
+            "Feta"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/587664226121bb7c8c27fac4-61f4ed49.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/salade-van-spinazie-en-bataat-met-hazelnoot-dukkah-en-feta-e1f7908c.pdf"
+    },
+    {
+        "title": "Noord-Afrikaanse couscous met kruiden en amandelen",
+        "extra": "",
+        "labels": [
+            "Veggie"
+        ],
+        "allergens": [
+            "Amandelnoten",
+            "Gluten"
+        ],
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "490 kcal",
+        "ingredients": [
+            "Bloemkool-peenmix",
+            "Amandelschaafsel",
+            "Gemalen komijnzaad",
+            "Gemalen kaneel",
+            "Volkoren couscous",
+            "Rozijnen",
+            "Kikkererwten",
+            "Verse bladpeterselie",
+            "Verse koriander",
+            "Verse munt"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/587664226121bb7c8c27fac5-76fe6fdb.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/noord-afrikaanse-couscous-met-kruiden-en-amandelen-c432c2d4.pdf"
+    },
+    {
+        "title": "Bami met gekruide kippendijpuntjes",
+        "extra": "",
+        "labels": [
+            "Kindvriendelijk"
+        ],
+        "allergens": [
+            "Gluten",
+            "Soja"
+        ],
+        "duration": "25 minuten",
+        "difficulty": "Makkelijk",
+        "kcal": "615 kcal",
+        "ingredients": [
+            "Verse gember",
+            "Knoflookteen",
+            "Kippendijfilet",
+            "Groentemix",
+            "Sojasaus",
+            "Noedels"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/587664236121bb7c8c27fac6-cb9d30b5.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/bami-met-gekruide-kippendijpuntjes-0ea326a1.pdf"
+    },
+    {
+        "title": "Zoete bloemkool-broccolisoep",
+        "extra": "",
+        "labels": [
+            "Kindvriendelijk",
+            "Veggie"
+        ],
+        "allergens": [
+            "Gluten",
+            "Pinda's",
+            "Noten",
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "581 kcal",
+        "ingredients": [
+            "Kruimige aardappelen",
+            "Bloemkool",
+            "Champignons",
+            "Gemalen kurkuma",
+            "Gemalen komijnzaad",
+            "Kurkumabroodje",
+            "Verse koriander",
+            "Cashewnoten",
+            "Biologische cr\u00e8me fra\u00eeche"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/587664246121bb7c8c27fac7-021ee346.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/zoete-bloemkool-broccolisoep-5887b0ed.pdf"
+    },
+    {
+        "title": "Andijviestamppot met halloumi en cherrytomaten",
+        "extra": "",
+        "labels": [
+            "Kindvriendelijk",
+            "Veggie"
+        ],
+        "allergens": [
+            "Melk (inclusief lactose)"
+        ],
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "540 kcal",
+        "ingredients": [
+            "Kruimige aardappelen",
+            "Rode cherrytomaten",
+            "Sjalot",
+            "Halloumi",
+            "Gesneden andijvie",
+            "Nootmuskaat"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/587786ee4348d268031ac9d1-231d17c4.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/andijviestamppot-met-halloumi-en-cherrytomaten-ad10f9c3.pdf"
+    },
+    {
+        "title": "Koolvis en groenten gestoofd in kokosmelk met pandanrijst",
+        "extra": "",
+        "labels": [
+            "Kindvriendelijk"
+        ],
+        "allergens": [
+            "Vis"
+        ],
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "688 kcal",
+        "ingredients": [
+            "Sjalot",
+            "Prei",
+            "Verse gember",
+            "Pandanrijst",
+            "Kokosmelk",
+            "Sperziebonen",
+            "Gemalen citroengras",
+            "Gemalen korianderzaad",
+            "Vissaus",
+            "Koolvisfilet zonder huid"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/587788d2a28e1a10cc5f8934-153dc5c2.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/koolvis-en-groenten-gestoofd-in-kokosmelk-met-pandanrijst-4e91d360.pdf"
+    },
+    {
+        "title": "Parelcouscous met gekruide heekfilet en venkel",
+        "extra": "Avec des chicons et du fromage frais aux fines herbes",
+        "labels": [
+            "Gluten",
+            "Melk (inclusief lactose)",
+            "Vis"
+        ],
+        "allergens": [],
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "637 kcal",
+        "ingredients": [
+            "Parelcouscous",
+            "Knoflookteen",
+            "Venkel",
+            "Witlof",
+            "Kruidenroomkaas",
+            "Heekfilet met huid",
+            "Paprikapoeder"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5878fc7d9f236a1edd2ff32d-565c248a.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/parelcouscous-met-gekruide-heekfilet-en-venkel-abf5d093.pdf"
+    },
+    {
+        "title": "Rundersaucijs met krieltjes en groentenstoof",
+        "extra": "\u00c0 la tapenade de tomates",
+        "labels": [
+            "Sulfiet"
+        ],
+        "allergens": [],
+        "duration": "45 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "861 kcal",
+        "ingredients": [
+            "Krieltjes",
+            "Gedroogde rozemarijn",
+            "Knoflookteen",
+            "Champignons",
+            "Tomaat",
+            "Groene paprika",
+            "Rundersaucijs met Italiaanse kruiden",
+            "Tomatentapenade"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/rundersaucijs-met-krieltjes-en-groentenstoof-50e2d62e.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/rundersaucijs-met-krieltjes-en-groentenstoof-00de1138.pdf"
+    },
+    {
+        "title": "Oosterse noedels met Chinese kool en tuinkers",
+        "extra": "Avec des noix de cajou sal\u00e9es",
+        "labels": [
+            "Pittig",
+            "Veggie"
+        ],
+        "allergens": [
+            "Gluten",
+            "Soja",
+            "Pinda's",
+            "Noten"
+        ],
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "633 kcal",
+        "ingredients": [
+            "Verse gember",
+            "Rode peper",
+            "Wortel",
+            "Chinese kool",
+            "Kokosmelk",
+            "Sojasaus",
+            "Tuinkers",
+            "Cashewnoten",
+            "Noedels"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5878fc7f9f236a1edd2ff32f-6435f08d.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/oosterse-noedels-met-chinese-kool-en-tuinkers-2eda2fc9.pdf"
+    },
+    {
+        "title": "Parelgerst met gerookte forel en tuinkers",
+        "extra": "Avec du cresson et du c\u00e9leri-rave cuit au four",
+        "labels": [
+            "Selderij",
+            "Gluten",
+            "Vis"
+        ],
+        "allergens": [],
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "491 kcal",
+        "ingredients": [
+            "Rode ui",
+            "Spruiten",
+            "Knolselderij",
+            "Paprikapoeder",
+            "Parelgerst",
+            "Gerookte forelfilet",
+            "Tuinkers"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5878fc809f236a1edd2ff330-5667d500.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/parelgerst-met-gerookte-forel-en-tuinkers-5340f903.pdf"
+    },
+    {
+        "title": "Kipfilet met rode ui en geroosterde bataat",
+        "extra": "ur une d\u00e9licieuse ciabatta chaude",
+        "labels": [
+            "Melk (inclusief lactose)",
+            "Gluten",
+            "Soja"
+        ],
+        "allergens": [],
+        "duration": "35 minuten",
+        "difficulty": "Makkelijk",
+        "kcal": "771 kcal",
+        "ingredients": [
+            "Rode ui",
+            "Zoete aardappel",
+            "Kippendijfilet",
+            "Geraspte cheddar",
+            "Witte ciabatta",
+            "Botersla",
+            "Tomaat"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5878fc819f236a1edd2ff331-f843d9e4.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/kipfilet-met-rode-ui-en-geroosterde-bataat-2c7410c4.pdf"
+    },
+    {
+        "title": "Fusilli met broccolisaus en geitenkaas",
+        "extra": "Accompagn\u00e9s de noix",
+        "labels": [
+            "Veggie"
+        ],
+        "allergens": [
+            "Gluten",
+            "Melk (inclusief lactose)",
+            "Eieren",
+            "Noten"
+        ],
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "699 kcal",
+        "ingredients": [
+            "Champignons",
+            "Sjalot",
+            "Knoflookteen",
+            "Fusilli",
+            "Kookroom",
+            "Gedroogde oregano",
+            "Geitenkaas, geraspt",
+            "Walnoten"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5878fc829f236a1edd2ff332-7135dfac.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/fusilli-met-broccolisaus-en-geitenkaas-f9a0090d.pdf"
+    },
+    {
+        "title": "Orzo met geroosterde groenten en ricotta",
+        "extra": "Avec des carottes et des betteraves rouges cuites au four",
+        "labels": [
+            "Veggie"
+        ],
+        "allergens": [
+            "Melk (inclusief lactose)",
+            "Gluten"
+        ],
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "506 kcal",
+        "ingredients": [
+            "Gekookte rode bieten",
+            "Knoflookteen",
+            "Wortel",
+            "Citroen",
+            "Verse tijm",
+            "Ricotta",
+            "Orzo"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5878fc839f236a1edd2ff333-26028250.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/orzo-met-geroosterde-groenten-en-ricotta-84071cc0.pdf"
+    },
+    {
+        "title": "Milde tikka masala met tofu",
+        "extra": "Avec des rondelles de concombre aigres-douces",
+        "labels": [
+            "Veggie"
+        ],
+        "allergens": [
+            "Melk (inclusief lactose)",
+            "Selderij",
+            "Mosterd",
+            "Soja"
+        ],
+        "duration": "45 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "626 kcal",
+        "ingredients": [
+            "Kruimige aardappelen",
+            "Ui",
+            "Tomaat",
+            "Rode paprika",
+            "Naturel yoghurt",
+            "Kerriepoeder",
+            "Gemalen komijnzaad",
+            "Paprikapoeder",
+            "Tomatenpuree",
+            "Komkommer",
+            "Verse koriander",
+            "Tofu"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5878fc849f236a1edd2ff334-119b899e.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/milde-tikka-masala-met-tofu-9c73883a.pdf"
+    },
+    {
+        "title": "Sperziebonensalade met varkensfilet en andijvie",
+        "extra": "Avec du piccalilli aigre-doux et de la poire \u00e0 l\u2019\u00e9tuv\u00e9e",
+        "labels": [
+            "Gluten",
+            "Soja",
+            "Mosterd"
+        ],
+        "allergens": [],
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "487 kcal",
+        "ingredients": [
+            "Sperziebonen",
+            "Krieltjes",
+            "Varkensfilet",
+            "Peer",
+            "Gesneden andijvie",
+            "Piccalilly"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5878fc859f236a1edd2ff335-9acb1458.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/sperziebonensalade-met-varkensfilet-en-andijvie-54d9b23a.pdf"
+    },
+    {
+        "title": "Kruiden-amandelrijst met linzen en boerenkool",
+        "extra": "Avec des herbes fra\u00eeches : menthe, coriandre et persil",
+        "labels": [
+            "Veggie"
+        ],
+        "allergens": [
+            "Amandelnoten",
+            "Melk (inclusief lactose)",
+            "Eieren",
+            "Sulfiet"
+        ],
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "kcal": "742 kcal",
+        "ingredients": [
+            "Rode ui",
+            "Kastanjechampignons",
+            "Verse bladpeterselie",
+            "Verse koriander",
+            "Verse munt",
+            "Linzen",
+            "Gesneden boerenkool",
+            "Amandelschaafsel",
+            "Zilvervliesrijst",
+            "Gemalen komijnzaad",
+            "Mesclun",
+            "Labne"
+        ],
+        "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5878fc869f236a1edd2ff336-07f845b2.jpg",
+        "pdf_url": "https://hellofresh.com/recipecards/card/kruiden-amandelrijst-met-linzen-en-boerenkool-2a2724be.pdf"
+    }
+]

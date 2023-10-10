@@ -1,5 +1,19 @@
 [
     {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R01_W23_NL_R1757-17_Main__10low-d8ee8d01.jpg",
+        "title": "Gekruide kipfilet met champignonroomsaus",
+        "extra": "met bruine rijst, broccoli en gomasio",
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE",
+            "FAMILIE",
+            "LEKKER SNEL"
+        ],
+        "source": "https://www.hellofresh.be/recipes/gekruide-kipfilet-met-champignonroomsaus-648c4ce6343321ec366399ba"
+    },
+    {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R52_W24_NL_R0565-51048_Main_low-0036cd9c.jpg",
         "title": "Pikante Udon noedels met gemarineerde eieren",
         "extra": "met sperziebonen, honingpinda's en komkommersalade",
@@ -8,7 +22,8 @@
         "categories": [
             "VEGGIE",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pikante-udon-noedels-met-gemarineerde-eieren-648c4ce40635a1e9befbb53a"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220817_R11_W39_NL_R5837-1_MB_Main_3_low-c4f5cb42.jpg",
@@ -21,7 +36,8 @@
             "VEGAN",
             "KLIMAATBEWUST",
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/tempeh-op-zn-surinaams-648c4ce325862a444bdb6365"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220228_R210_W16_FR_RNL1176-11__MB_Main_balanced_low-4c2a6d11.jpg",
@@ -34,7 +50,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/salade-met-peer-pittige-blauwe-kaas-en-walnoot-648c4ce2343321ec366399b7"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221101_R19_W50_NL_R0783-12h_KB_Main_high-f609565c.jpg",
@@ -47,7 +64,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/orzo-met-courgette-en-mini-romatomaten-648c4ce1343321ec366399b4"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R07_W15_BNL_R5820-2_Main_low-929e1c8b.jpg",
@@ -59,7 +77,8 @@
             "ORIGINAL",
             "EXTRA GROENTE",
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/boerenworst-met-gebakken-ui-en-currysaus-648c4ce025862a444bdb6362"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R13_W40_NL_Q5718-8_main_low-470307d2.jpg",
@@ -71,7 +90,8 @@
             "FAMILIE",
             "POPULAIR",
             "LEKKER SNEL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/bulgurbowl-met-kipgehakt-en-sweet-chili-tortillachips-648c4cdd0635a1e9befbb537"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R12_W40_NL_R2710-16_Main__9low-e68ddded.jpg",
@@ -85,8 +105,9 @@
             "KLIMAATBEWUST",
             "EXTRA GROENTE",
             "POPULAIR",
-            "EXTRAVEZELS"
-        ]
+            "EXTRA VEZELS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/bulgur-met-spinazie-en-harissa-648c4cdc343321ec366399ae"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R08_W28_BNL_Q0091-19_Main_R_low-23589720.jpg",
@@ -97,7 +118,23 @@
         "categories": [
             "EXTRA GROENTE",
             "LEKKER SNEL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/naanpizza-met-yazzara-rundergehakt-en-spinazie-648c4cda343321ec366399ab"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/pizza-tex-mex-avec-dip-d-avocat-b651b466-d57f81b4.jpg",
+        "title": "Tex-Mex pizza met avocadodip",
+        "extra": "met witte kaas, mais en ui",
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "VEGGIE",
+            "KLIMAATBEWUST",
+            "FAMILIE",
+            "POPULAIR",
+            "HAPPY-HOUR"
+        ],
+        "source": "https://www.hellofresh.be/recipes/tex-mex-pizza-met-avocadodip-648c4cd9343321ec366399a8"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210712_R19_W34_NL_R4002-1_MB_Main_low-57b7cf24.jpg",
@@ -107,7 +144,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "VEGGIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gigli-met-pesto-van-wortelloof-648c4cd80635a1e9befbb531"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF190909_R18_W42_NL_R1868_Main_white_plate_balanced_background_edit_low-04194477.jpg",
@@ -120,7 +158,8 @@
             "EXTRA GROENTE",
             "FAMILIE",
             "HAPPY-HOUR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/mini-tortillas-met-varkenshaasstukjes-en-gomasio-648c4cd7343321ec366399a5"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/soupe-de-tomate-et-poivron-au-couscous-perle-f733bbd5-96f59154.jpg",
@@ -134,18 +173,8 @@
             "KLIMAATBEWUST",
             "EXTRA GROENTE",
             "FAMILIE"
-        ]
-    },
-    {
-        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210326_R07_W21_R3819-1_KB_Main_lemon_wedges_bg_low-8462e654.jpg",
-        "title": "Groene risotto met ham en spinaziepesto",
-        "extra": "met gegrilde courgette, citroen en vers basilicum",
-        "duration": "45 minuten",
-        "difficulty": "Gemiddeld",
-        "categories": [
-            "FAMILIE",
-            "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/tomaat-paprikasoep-met-parelcouscous-648c4cd50635a1e9befbb52b"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220628_R04_W32_SE_V12343792-24_MB_Main_remove_the_spring_onion_low-45c02a2d.jpg",
@@ -158,7 +187,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/crispy-bang-bang-bloemkool-met-knoflookrijst-648c4cbb25862a444bdb6359"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R07_W08_NL_R6365-1_Main_3_low-4ddbc2d8.jpg",
@@ -170,7 +200,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "ZOUTBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/flammkuchen-met-prei-en-mozzarella-648c4cb725862a444bdb6356"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221010_R75_W46_NL_P5454-2_MB_Main_normal_cheese_low-76ee69c5.jpg",
@@ -181,7 +212,8 @@
         "categories": [
             "LEKKER SNEL",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/meatier-hamburger-met-oude-kaas-en-spek-648c4cb70635a1e9befbb522"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF200813_R62_W38_NL_R0555-7_KB_Main_low-a59b287b.jpg",
@@ -196,7 +228,8 @@
             "EXTRA GROENTE",
             "FAMILIE",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/maaltijdsoep-met-zoete-aardappel-en-paprika-648c4cb625862a444bdb6353"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/pates-en-sauce-aux-poivrons-rotis-et-fromage-de-chevre-5bb61058-fc4c0f5d.jpg",
@@ -210,19 +243,8 @@
             "EXTRA GROENTE",
             "INSPIRATIE",
             "POPULAIR"
-        ]
-    },
-    {
-        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y27_R32_W27_BNL_Q2560-9_remove_tomatoes_add_cabbage_Main_low-84499d71.jpg",
-        "title": "Knoflookgarnalen met snijbonen",
-        "extra": "met spitskool en aardappelschijfjes",
-        "duration": "15 minuten",
-        "difficulty": "Makkelijk",
-        "categories": [
-            "FAMILIE",
-            "LEKKER SNEL",
-            "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/volkoren-pasta-met-geroosterde-paprikasaus-en-geitenkaas-648c4cb10635a1e9befbb51f"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R09_W31_BNL_Q0021-13_Main_low-21a006b8.jpg",
@@ -235,7 +257,8 @@
             "FAMILIE",
             "INSPIRATIE",
             "LEKKER SNEL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/volkoren-noedels-met-kippendij-648c4cac0635a1e9befbb519"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R12_W39_NL_R16621743-15_MAIN__3low-40728899.jpg",
@@ -246,7 +269,8 @@
         "categories": [
             "VEGGIE",
             "INSPIRATIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/indiase-curry-met-venkel-en-paprika-648c4cab343321ec36639999"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R03_W11_NL_Q6487-1_less_meatballs_Main_11_low-421104dd.jpg",
@@ -258,7 +282,8 @@
             "FAMILIE",
             "POPULAIR",
             "LEKKER SNEL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pasta-met-gehaktballetjes-op-zn-zweeds-in-roomsaus-648c4caa343321ec36639996"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221208_R03_W07_NZ_MB_Main_low_edit-c70451ad.jpg",
@@ -271,7 +296,8 @@
             "FAMILIE",
             "POPULAIR",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/varkenshaas-met-aardbei-balsamicosaus-648c4ca8343321ec36639993"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220930_R05_W45_NL_R0056-16_MB_Main_Partial_Reshot_2_low-fe9c47e9.jpg",
@@ -284,7 +310,8 @@
             "KLIMAATBEWUST",
             "EXTRA GROENTE",
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/courgettesoep-met-bospaddenstoelenpesto-648c4ca70635a1e9befbb513"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R61_W24_BNL_Q5935-2_remove_salt_Main_low-7fd38381.jpg",
@@ -296,7 +323,8 @@
             "FAMILIE",
             "LEKKER SNEL",
             "ZOUTBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/heekfilet-met-spinazie-basilicumpuree-648c4ca7343321ec36639990"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R15_W32_NL_R16251650-12_Main_low-d3b8da42.jpg",
@@ -307,7 +335,179 @@
         "categories": [
             "FAMILIE",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/romige-ragu-bianco-met-rundergehakt-en-penne-648c4ca50635a1e9befbb510"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220727_R22_W36_NL_R3399-6_KB_Main_low-db65a2b9.jpg",
+        "title": "Kalkoenfilet met basilicumroomsaus en patatjes",
+        "extra": "met Italiaanse kaas en groene groenten",
+        "duration": "45 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "ORIGINAL",
+            "FAMILIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/kalkoenfilet-met-basilicumroomsaus-en-patatjes-648c4c6e0635a1e9befbb4f8"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R76_W24_BNL_U15168-1_Main_4_low-b0659ee1.jpg",
+        "title": "Burrata &amp; pecorino pasta",
+        "extra": "met rode puntpaprika, tomaat en smokey tomatenketchup",
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "ADD-ON-BESTSELLER",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/burrata-and-pecorino-pasta-648c4c6d0635a1e9befbb4f5"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R73_W34_BNL_P0013-20_Main_F1_low-8d3873d4.jpg",
+        "title": "Gebakken zalmfilet met knapperige zeekraal",
+        "extra": "met venkel, krieltjes en citroenmayonaise",
+        "duration": "45 minuten",
+        "difficulty": "Moeilijk",
+        "categories": [],
+        "source": "https://www.hellofresh.be/recipes/gebakken-zalmfilet-met-knapperige-zeekraal-648c4c6b343321ec36639966"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R74_W34_BNL_P2227-12-Main__low-13b8e0c9.jpg",
+        "title": "Bao bun met sticky varkenshaas",
+        "extra": "met zoetzuur, sugarsnaps en zoete Aziatische saus",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "INSPIRATIE",
+            "HAPPY-HOUR",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/bao-bun-met-sticky-varkenshaas-648c4c6725862a444bdb6326"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220801_R10_W38_NL_R5196-2_KB_Main_bg_high-4e202df8.jpg",
+        "title": "Vegetarische kaasschnitzel met pikante zoete-aardappelpuree",
+        "extra": "met gebakken knoflooksperziebonen",
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "VEGGIE",
+            "KLIMAATBEWUST",
+            "FAMILIE",
+            "INSPIRATIE",
+            "LEKKER SNEL"
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-kaasschnitzel-met-pikante-zoete-aardappelpuree-648c4c640635a1e9befbb4ec"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220425_R07_W22_NL_R3527-4_MB_Main_low-55912a67.jpg",
+        "title": "Geroosterde bloemkool in groene currysaus",
+        "extra": "met bruine rijst, paksoi en Thais basilicum",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "VEGAN",
+            "CALORIEBEWUST",
+            "EXTRA GROENTE",
+            "POPULAIR"
+        ],
+        "source": "https://www.hellofresh.be/recipes/geroosterde-bloemkool-in-groene-currysaus-648c4c5f0635a1e9befbb4e9"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R19_W09_NL_R4314-7_Main_low-71c091ff.jpg",
+        "title": "Gebakken patatjes met spiegelei en kaas",
+        "extra": "met champignons, sperziebonen, wortel en verse kruiden",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "VEGGIE",
+            "EXTRA GROENTE",
+            "POPULAIR"
+        ],
+        "source": "https://www.hellofresh.be/recipes/gebakken-patatjes-met-spiegelei-en-kaas-648c4c5e25862a444bdb6320"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R15_W41_NL_R3307-14_protein_edit__Main_low-d95146ac.jpg",
+        "title": "Varkensoester met frisse citroendressing",
+        "extra": "met patatjes uit de oven en sperziebonen",
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE",
+            "ZOUTBEWUST",
+            "BESTSELLERS",
+            "ADD-ON-BESTSELLER"
+        ],
+        "source": "https://www.hellofresh.be/recipes/varkensoester-met-frisse-citroendressing-648c4c5b25862a444bdb631a"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220328_R54_W19_NL_R3547-2_MB_Main_low-10a5f51d.jpg",
+        "title": "Orzo met venkel en pistachenoten",
+        "extra": "met spinazie en feta",
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "VEGGIE",
+            "KLIMAATBEWUST",
+            "LEKKER SNEL"
+        ],
+        "source": "https://www.hellofresh.be/recipes/orzo-met-venkel-en-pistachenoten-648c4c57343321ec3663995d"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221017_R11_W47_NL_Q6114-1_MB_Main_bg_edit_low-dbfa9914.jpg",
+        "title": "Eenpansspaghetti met tomatensaus",
+        "extra": "met zelfgemaakte kruidenroomkaas",
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "VEGGIE",
+            "KLIMAATBEWUST",
+            "EXTRA GROENTE",
+            "LEKKER SNEL",
+            "EENPANSGERECHT"
+        ],
+        "source": "https://www.hellofresh.be/recipes/eenpansspaghetti-met-tomatensaus-648c4c56343321ec3663995a"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210621_R15_W28_NL_R3919-1_MB_Main_bg_low-44dea9c0.jpg",
+        "title": "Gehaktbrood met mozzarella en tomatensaus",
+        "extra": "met zelfgemaakte frietjes en sperziebonen",
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "FAMILIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/gehaktbrood-met-mozzarella-en-tomatensaus-648c4c5525862a444bdb6317"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y25_R07_W25_BNL_IR3845-6_Main_low-3ca07b28.jpg",
+        "title": "Pizza bianco met courgette en groene pesto",
+        "extra": "met zure room en champignons",
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "VEGGIE",
+            "KLIMAATBEWUST",
+            "POPULAIR",
+            "HAPPY-HOUR"
+        ],
+        "source": "https://www.hellofresh.be/recipes/pizza-bianco-met-courgette-en-groene-pesto-648c4c54343321ec36639957"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221108_R20_W51_NL_R3525-2_MB_Main_low-20db5ddf.jpg",
+        "title": "Vegetarische kipcurry met rijst",
+        "extra": "met appel, paksoi en kokosmelk",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "VEGGIE",
+            "KLIMAATBEWUST",
+            "EXTRA GROENTE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-kipcurry-met-rijst-648c4c52343321ec36639954"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220630_R72_W32_NL_P1793-2_KB_Main_radishes_removed_lemon_edit_low-4fc6089a.jpg",
@@ -317,7 +517,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/frisse-risotto-met-kabeljauwfilet-en-citroentijm-648b23b7343321ec36639927"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R04_W09_ES_ESCLCVV0059-2_switch_salad_Main_low-49943966.jpg",
@@ -330,7 +531,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/flammkuchen-met-mozzarella-en-courgette-6489cc240635a1e9befbb477"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211119_R216_W01_FR_QNL2084-7_KB_Main_bg_low-c02974e0.jpg",
@@ -343,7 +545,8 @@
             "FAMILIE",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/tostada-met-gekruid-kipgehakt-en-cheddar-6489c8c625862a444bdb6292"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R52_W22_BNL_R3563-3_Main__8low-c85af865.jpg",
@@ -354,7 +557,8 @@
         "categories": [
             "VEGGIE",
             "INSPIRATIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-kipstukjes-in-zoete-sojasaus-6482f9ef4726b736914e1a74"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R16_W23_BNL_R0298-5_Main_low-c51fdf03.jpg",
@@ -365,7 +569,8 @@
         "categories": [
             "FAMILIE",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/thais-gekruide-gehaktballetjes-met-volkoren-noedels-en-appelsien-6482f95a4726b736914e1a71"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R26_W39_NL_R2914_6_switch_veggies_Main_low-fa0ab971.jpg",
@@ -376,7 +581,8 @@
         "categories": [
             "CALORIEBEWUST",
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/traybake-met-pikante-piri-piri-kip-6481e277b46962f525d653c8"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R08_W39_NL_R1816-13_Main_4_low-75562f98.jpg",
@@ -389,7 +595,20 @@
             "POPULAIR",
             "LEKKER SNEL",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pasta-pesto-met-courgette-en-mozzarella-6479e70922f7f34e1f95d364"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220630_R13_W32_NL_Q4157-4_KB_Main_low-8624c94c.jpg",
+        "title": "Tortilla's met gehakt in gember-limoenmarinade",
+        "extra": "met knapperige groenten, mais en pinda's",
+        "duration": "15 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL",
+            "HAPPY-HOUR"
+        ],
+        "source": "https://www.hellofresh.be/recipes/tortillas-met-gehakt-in-gember-limoenmarinade-64774c4322f7f34e1f95d291"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R16_W38_NL_R16770-1_Main_low-f311be72.jpg",
@@ -403,7 +622,8 @@
             "KLIMAATBEWUST",
             "FAMILIE",
             "ADD-ON-NEW"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/traybake-met-vegetarische-gehaktballetjes-64709b3e904daffe76f268eb"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220516_R74_W26_NL_P4587-2_MB_Main_low-f97d3cb0.jpg",
@@ -412,11 +632,12 @@
         "duration": "35 minuten",
         "difficulty": "Gemiddeld",
         "categories": [
-            "EATMEFIRST",
+            "EAT ME FIRST",
             "FAMILIE",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/luxe-thaise-curry-met-garnalen-en-kippendij-647098850c1e02e39244a3b0"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220711_R06_W34_NL_R2508-9_KB_Main_4_low-c80119a3.jpg",
@@ -429,7 +650,8 @@
             "EXTRA GROENTE",
             "FAMILIE",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/courgette-uit-de-oven-in-romige-tomatensaus-646cc33422f7f34e1f95d088"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220613_R01_W29_NL_R3696-4_MB_Main_low-6b67b3cf.jpg",
@@ -441,7 +663,8 @@
             "EXTRA GROENTE",
             "FAMILIE",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/turkse-pide-met-rundermerguez-646b40d88c393b044d744933"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y26_R03_W26_BNL_R3532-5Main_f1low-83618406.jpg",
@@ -451,7 +674,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "VEGGIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-hamburger-met-gebakken-ui-en-champignons-646b37690c1e02e39244a24d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R73_W28_BNL_P02161717-4_Main_low-f39ae426.jpg",
@@ -462,7 +686,8 @@
         "categories": [
             "EXTRA GROENTE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/zwarte-tagliatelle-met-grote-garnalen-646789fe8c393b044d744916"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210923_R07_W44_NL_R4330-1_MB_Main_classic_low-58741972.jpg",
@@ -473,7 +698,8 @@
         "categories": [
             "FAMILIE",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gebakken-zalm-in-dilleroomsaus-646780c28c393b044d744913"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R01_W40_NL_R2134-15_main_low-a4919c07.jpg",
@@ -487,7 +713,8 @@
             "FAMILIE",
             "LEKKER SNEL",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/enchiladas-met-kipgehakt-6467378f8c393b044d74490d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R30_W38_NL_R3898-5_Main_low-2b9f6107.jpg",
@@ -500,7 +727,8 @@
             "FAMILIE",
             "LEKKER SNEL",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kipfilet-met-bieslookroomsaus-64650d906ced9aa0d6353cac"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R04_W22_BNL_R0971-7_Main__3low-4a00d2ad.jpg",
@@ -512,7 +740,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "LEKKER SNEL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/groene-curry-met-garnalen-en-bruine-rijst-64650d8f0c1e02e39244a1fc"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220624_R61_W29_NL_RR14261496-16_KB_KB_Main_low-86773a20.jpg",
@@ -522,7 +751,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kipfilet-in-mosterd-roomsaus-64650d8d0c1e02e39244a1f9"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R76_W38_NL_U6729-3_Main_low-e4602c90.jpg",
@@ -534,7 +764,8 @@
             "VEGGIE",
             "LEKKER SNEL",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/penne-met-burrata-walnoten-en-basilicumcreme-64650d8c0c1e02e39244a1f6"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R75_W28_BNL_P6585-2_Main_low-3520f1fb.jpg",
@@ -545,7 +776,8 @@
         "categories": [
             "LEKKER SNEL",
             "ADD-ON-NEW"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kipfilethaasjes-met-ontbijtspek-in-parmezaan-roomsaus-64650d8b6ced9aa0d6353ca9"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R76_W27_BNL_P6766-1_switch_chips_edit_Social__7low-6c305eb6.jpg",
@@ -556,7 +788,8 @@
         "categories": [
             "FAMILIE",
             "ADD-ON-NEW"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/garnalen-op-zn-mexicaans-met-limoen-korianderrijst-64650d8a0c1e02e39244a1f3"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_M_W31_NL_PL-265_PHOTO7_low-c6d483ae.jpg",
@@ -567,7 +800,8 @@
         "categories": [
             "EXTRA GROENTE",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/klassieke-filet-mignon-in-mosterdsaus-64650d896ced9aa0d6353ca6"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R71_W31_BNL_P2205-12_switch_salad_edit_Main_low-8cab4980.jpg",
@@ -577,7 +811,8 @@
         "difficulty": "Makkelijk",
         "categories": [
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/verse-ravioli-met-spek-en-venkel-geitenkaassaus-64650d866ced9aa0d6353ca3"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R53_W30_NL_R0938-14_Main_low-921e2481.jpg",
@@ -590,7 +825,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pompoen-pindasoep-met-gekookt-ei-64650d850c1e02e39244a1f0"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R52_W38_NL_Q6185-5_Main_low-d7b96efd.jpg",
@@ -603,7 +839,8 @@
             "POPULAIR",
             "LEKKER SNEL",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/tofubowl-met-pindasaus-en-paksoi-64650d840c1e02e39244a1ed"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R51_W38_NL_Q2199-20_Main_low-1c0c1db3.jpg",
@@ -617,7 +854,8 @@
             "POPULAIR",
             "LEKKER SNEL",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/snelle-pasta-op-zn-mexicaans-64650d838c393b044d7448dd"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R03_W29_BNL_R0515-4_Main_low-5ca59ec7.jpg",
@@ -630,7 +868,8 @@
             "EXTRA GROENTE",
             "FAMILIE",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/flatbreadpizzas-met-3-kazen-en-courgette-64650d826ced9aa0d6353ca0"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220930_R21_W45_NL_R3126-7_MB_Main_Partial_Reshot_3_low-a2881730.jpg",
@@ -640,7 +879,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/duitse-biefstuk-met-saus-van-ui-64650d808c393b044d7448da"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211217_R14_W04_NL_R4262-1_KB_Main_low-a3fab685.jpg",
@@ -652,7 +892,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/ovenschotel-met-vegetarische-kipstukjes-en-kaassaus-64650d7f6ced9aa0d6353c9d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R06_W29_BNL_R3895-12_PRMain_low-4f492310.jpg",
@@ -664,7 +905,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "INSPIRATIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/aubergine-met-midden-oosterse-kruiden-en-zelfgemaakte-muhammara-64650d7d0c1e02e39244a1ea"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R23_W11_NL_R2114-6_bg_low-5c238f37.jpg",
@@ -677,7 +919,8 @@
             "KLIMAATBEWUST",
             "EXTRA GROENTE",
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gepofte-aardappel-met-spek-zure-room-en-belegen-kaas-64650d7c0c1e02e39244a1e7"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R18_W38_NL_R2277-16_Main_low-310dbf4f.jpg",
@@ -692,7 +935,8 @@
             "EXTRA GROENTE",
             "POPULAIR",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/bulgursalade-met-gegrilde-groenten-en-geitenkaas-64650d7a6ced9aa0d6353c9a"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R02_W02_NL_R1798-18__replace_salad_edit__Main_low-135d52c2.jpg",
@@ -706,7 +950,8 @@
             "KLIMAATBEWUST",
             "EXTRA GROENTE",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/flammkuchen-met-brie-en-appel-64650d790c1e02e39244a1e1"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R14_W30_BNL_Q18073521-10_Main_low-bf2b36ba.jpg",
@@ -717,8 +962,9 @@
         "categories": [
             "FAMILIE",
             "LEKKER SNEL",
-            "SNELLEBEREIDING"
-        ]
+            "SNELLE BEREIDING"
+        ],
+        "source": "https://www.hellofresh.be/recipes/gewokte-noedels-met-kippendijreepjes-in-teriyaki-64650d756ced9aa0d6353c94"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R06_W05_NL_RR14731493-16_MB_Main_R_low-c2467fa8.jpg",
@@ -729,7 +975,8 @@
         "categories": [
             "VEGGIE",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/linzenstoof-met-gele-currykruiden-en-naan-64650d746ced9aa0d6353c91"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R18_W10_NL_R2134-11_Main_balanced_low-aa97e1c6.jpg",
@@ -743,7 +990,8 @@
             "EXTRA GROENTE",
             "FAMILIE",
             "LEKKER SNEL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-quesadilla-met-kruidenkaasblokjes-64650d720c1e02e39244a1db"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R17_W17_BNL_R4176-3_Main_low-5e215d2b.jpg",
@@ -753,7 +1001,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/zelfgemaakte-mini-empanadas-met-rundergehakt-64650d716ced9aa0d6353c8e"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R08_W38_NL_Q4702-10_Main_low-19b66caf.jpg",
@@ -765,7 +1014,8 @@
             "VEGGIE",
             "POPULAIR",
             "LEKKER SNEL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/snelle-vegetarische-miso-ramen-met-champignons-64650d706ced9aa0d6353c8b"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R07_W38_NL_Q5960-4_Main_low-d46f0c70.jpg",
@@ -779,7 +1029,8 @@
             "FAMILIE",
             "LEKKER SNEL",
             "ADD-ON-NEW"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/krieltjes-in-paprikasaus-met-kipworstjes-64650d6f0c1e02e39244a1d8"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210323_R11_W18_NL_Q3377-1_KB_Main_low-c01405df.jpg",
@@ -791,7 +1042,8 @@
             "VEGGIE",
             "EXTRA GROENTE",
             "LEKKER SNEL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/midden-oosters-gekruide-groenten-met-witte-grillkaas-en-rijst-64650d6e8c393b044d7448d4"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R09_W28_BNL_Q2016-15_Main__2low-7f64be1b.jpg",
@@ -805,7 +1057,8 @@
             "FAMILIE",
             "LEKKER SNEL",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/noedels-met-kipgehakt-en-aziatische-saus-64650d6c6ced9aa0d6353c88"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R03_W13_NL_R16301668-15_Main_PR_low-5f29aa0d.jpg",
@@ -817,7 +1070,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/varkensoester-met-zelfgemaakte-saus-64650d6b0c1e02e39244a1d2"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R13_W20_BNL_Q5348-4_Main_4low-e575303f.jpg",
@@ -827,7 +1081,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "LEKKER SNEL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/sticky-gehaktballetjes-op-zn-thais-64650d516ced9aa0d6353c85"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R76_W37_NL_U6720-2_MAIN__26low-57d063ec.jpg",
@@ -840,7 +1095,8 @@
             "LEKKER SNEL",
             "FAMILIE",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/rijke-pasta-op-zn-mexicaans-64650d4e8c393b044d7448d1"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R75_W06_NL_P5706-3_Main_edit_low-4f83584c.jpg",
@@ -851,7 +1107,8 @@
         "categories": [
             "LEKKER SNEL",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gebakken-gnocchi-met-gemarineerde-kipfiletreepjes-64650d4d6ced9aa0d6353c82"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R72_W07_NL_P2102-3__KB_Main_low-ff5ce5bd.jpg",
@@ -861,7 +1118,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/klassieke-scampi-diabolique-in-currysaus-64650d4b6ced9aa0d6353c7f"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R71_W37_NL_P1996-10_Main_F1_low-fcd74c9a.jpg",
@@ -872,7 +1130,8 @@
         "categories": [
             "FAMILIE",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kalfsburger-deluxe-met-oude-kaas-en-ovenfrietjes-64650d4a8c393b044d7448ce"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R63_W28_NL_R4607-2_Main_low-9b3044ab.jpg",
@@ -882,7 +1141,8 @@
         "difficulty": "Moeilijk",
         "categories": [
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/varkensoester-met-pistache-tijmkorst-64650d480c1e02e39244a1c9"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R20_W29_BNL_R4913-2_edit_peppers_MAIN_low-346fbb33.jpg",
@@ -893,7 +1153,8 @@
         "categories": [
             "VEGGIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pitabroodjes-met-vegetarische-shoarma-64650d438c393b044d7448c8"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221108_R08_W51_NL_R4285-3_MB_Main_low-45765ada.jpg",
@@ -907,7 +1168,8 @@
             "POPULAIR",
             "KLIMAATBEWUST",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/italiaans-gekruide-groentestoof-met-parelcouscous-64650d410c1e02e39244a1c6"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R07_W29_BNL_R6240-2_MAINlow-305f979f.jpg",
@@ -921,7 +1183,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/mini-pizza-pockets-met-courgette-en-ui-64650d406ced9aa0d6353c73"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R26_W10_NL_R6329-1_Main_4th_meatball_edit_low-9c6a1075.jpg",
@@ -932,7 +1195,8 @@
         "categories": [
             "CALORIEBEWUST",
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/spaanse-gehaktballetjes-met-krieltjes-64650d3f8c393b044d7448c5"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R18_W29_BNL_R1325-11_MAINlow-f603e670.jpg",
@@ -944,7 +1208,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "VEGGIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/feta-uit-de-oven-met-orzo-64650d3e8c393b044d7448c2"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R11_W37_NL_R4291-11_Main_low-3d96cc87.jpg",
@@ -958,7 +1223,8 @@
             "LEKKER SNEL",
             "ORIGINAL",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/tjap-tjoy-met-kippendijreepjes-64650d398c393b044d7448b9"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R24_W06_NL_Q3935-8_Main_Reshoot_bg_edit_low-637eb0f1.jpg",
@@ -973,7 +1239,8 @@
             "LEKKER SNEL",
             "VEGAN",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/zoetzure-tempehwraps-met-mangochutney-64650d386ced9aa0d6353c70"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210803_R13_W37_NL_Q3023-1_MB_Main_low-009d50cf.jpg",
@@ -985,7 +1252,8 @@
             "LEKKER SNEL",
             "FAMILIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pulled-chicken-wraps-met-koolsla-64650d388c393b044d7448b6"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211227_R16_W05_NL_R4388-1_MB_Main_low-5de0765b.jpg",
@@ -997,7 +1265,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/courgetterolletjes-gevuld-met-kipgehakt-en-roomkaas-64650d366ced9aa0d6353c6d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210621_R16_W31_NL_R3908-1_halloumi_edit__Main_low-810c30c1.jpg",
@@ -1011,7 +1280,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/orecchiette-met-pesto-en-witte-grillkaas-64650d350c1e02e39244a1c0"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R02_W28_BNL_R4583-8_Main_low-4e73715a.jpg",
@@ -1022,7 +1292,8 @@
         "categories": [
             "ORIGINAL",
             "VEGGIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gerookte-paprikarisotto-met-gegratineerde-geitenkaas-64650d346ced9aa0d6353c6a"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220809_R06_W37_NL_Q0058-22_KB_Main_Reshot_Low-01580c1e.jpg",
@@ -1036,7 +1307,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/farfalle-met-bospaddenstoelenpesto-64650d348c393b044d7448b0"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220223_R19_W14_UK_R1074-31_KB_Main_low-cb5ddf68.jpg",
@@ -1048,7 +1320,8 @@
             "EXTRA GROENTE",
             "VEGAN",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/zoete-aardappelsoep-met-kokosmelk-64650d336ced9aa0d6353c67"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF201026_R05_W49_NL_R16541691-6_MB_Main_low-bbe60e57.jpg",
@@ -1063,7 +1336,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/courgette-preisoep-met-verse-dille-64650d326ced9aa0d6353c64"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220711_R53_W34_NL_R1316-15_KB_Main_Low-c9fe51f1.jpg",
@@ -1074,18 +1348,21 @@
         "categories": [
             "FAMILIE",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/mexicaans-gekruide-kippendijfilet-64650d306ced9aa0d6353c61"
     },
     {
-        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220711_R53_W34_NL_R1316-15_KB_Main_Low-c9fe51f1.jpg",
-        "title": "Mexicaans gekruide kippendijfilet",
-        "extra": "met gepofte paprika, bruine rijst en witte kaas",
-        "duration": "45 minuten",
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210916_R07_W43_NL_R4254-1_MB_Main_add_one_meatball_low-cfd9e37b.jpg",
+        "title": "Wortel-preistoemp met spekjes en gehaktballetjes",
+        "extra": "met zelfgemaakte saus",
+        "duration": "40 minuten",
         "difficulty": "Gemiddeld",
         "categories": [
+            "EXTRA GROENTE",
             "FAMILIE",
-            "ADD-ON-BESTSELLER"
-        ]
+            "POPULAIR"
+        ],
+        "source": "https://www.hellofresh.be/recipes/wortel-preistoemp-met-spekjes-en-gehaktballetjes-64650d300c1e02e39244a1bd"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221117_R20_W03_NL_R4935-4_MB_Main_bg_low-11583970.jpg",
@@ -1098,18 +1375,8 @@
             "EXTRA GROENTE",
             "POPULAIR",
             "KLIMAATBEWUST"
-        ]
-    },
-    {
-        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221031_R13_W52_NL_Q2884-8_KB_Main_Low-2aa0eeca.jpg",
-        "title": "Romige pasta met kipfiletreepjes",
-        "extra": "met courgette, paprika en semi-gedroogde tomaten",
-        "duration": "15 minuten",
-        "difficulty": "Gemiddeld",
-        "categories": [
-            "LEKKER SNEL",
-            "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kipgyros-met-kruidige-bulgur-64650d2d8c393b044d7448ad"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R75_W22_BNL_P5600-3_Main_low-a3aad08a.jpg",
@@ -1121,7 +1388,20 @@
             "LEKKER SNEL",
             "BACK-TO-SCHOOL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/snelle-en-rijke-hamburger-op-zn-japans-64650d2c0c1e02e39244a1b7"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221031_R13_W52_NL_Q2884-8_KB_Main_Low-2aa0eeca.jpg",
+        "title": "Romige pasta met kipfiletreepjes",
+        "extra": "met courgette, paprika en semi-gedroogde tomaten",
+        "duration": "15 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/romige-pasta-met-kipfiletreepjes-64650d2c6ced9aa0d6353c5e"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R72_W36_NL_P2661-6_Main_R_low-5232097d.jpg",
@@ -1131,7 +1411,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/klassieke-paella-met-garnalen-en-kippendij-64650d280c1e02e39244a1b1"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220530_R71_W27_NL_P3035-3_MB_Main_Partial_Reshot_salad_low-4f31be21.jpg",
@@ -1141,7 +1422,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/zalmfilet-in-zelfgemaakte-kruidenkorst-met-gepofte-kerstomaten-64650d270c1e02e39244a1ae"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210506_R06_W24_NL_R0901-3_KB_Main_low_smaller_cheeses-2a918ab5.jpg",
@@ -1153,7 +1435,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/fluweelzachte-broccolisoep-met-blauwe-kaas-64650d250c1e02e39244a1ab"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R73_W36_NL_P01851594-17_Main_low-1df214f1.jpg",
@@ -1164,7 +1447,8 @@
         "categories": [
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/klassieke-filet-mignon-met-chimichurri-64650d248c393b044d7448aa"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R54_W15_BNL_R6378-1_Main_low-46f4069f.jpg",
@@ -1177,7 +1461,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/risotto-met-geroosterde-kerstomaten-en-kruidige-venkel-64650d220c1e02e39244a1a8"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R22_W17_NL_Q4933-3_Main_low-7dfeaa6e.jpg",
@@ -1188,7 +1473,8 @@
         "categories": [
             "LEKKER SNEL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/rigatoni-met-rundergehakt-in-aubergine-roomsaus-64650d218c393b044d7448a7"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220623_R51_W31_NL_R1113-11_MB_Main_low-b550c9c1.jpg",
@@ -1199,7 +1485,8 @@
         "categories": [
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/zalmfilet-met-aardappelsalade-op-zn-aziatisch-64650d206ced9aa0d6353c5b"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R15_W26_BNL_R3914-7_Main_R__4low-313ac7aa.jpg",
@@ -1210,7 +1497,8 @@
         "categories": [
             "ORIGINAL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/milde-curry-met-kipgehaktballetjes-64650d1e6ced9aa0d6353c58"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R11_W19_NL_R3239-7_Main_low-64065b35.jpg",
@@ -1225,7 +1513,8 @@
             "KLIMAATBEWUST",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-enchiladas-met-kaas-en-zure-room-64650d1c6ced9aa0d6353c55"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R01_W21_BNL_Q3216-13-3_Main_low-ecee5b15.jpg",
@@ -1237,7 +1526,8 @@
             "FAMILIE",
             "BACK-TO-SCHOOL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gehaktballetjes-op-zn-zweeds-in-roomsaus-64650d1c8c393b044d7448a1"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221027_R03_W49_NL_R1427-15_KB_Main_low-d9903a5c.jpg",
@@ -1252,7 +1542,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/midden-oosters-gekruide-veggiebowl-64650d1b6ced9aa0d6353c52"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220829_R07_W39_NL_R3122-5_edit_color__Main_low-1f5157c6.jpg",
@@ -1264,7 +1555,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/veggie-kipstukjes-in-bladerdeeg-64650d198c393b044d74489e"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220831_R18_W41_NL_R0381-15_KB_Main_low-8f990b58.jpg",
@@ -1278,7 +1570,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/orzo-met-spinazie-en-mini-romatomaten-64650d196ced9aa0d6353c4f"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220623_R03_W31_NL_R3242-5_MB_Main_purple_carrot_edit_low-91d349a6.jpg",
@@ -1289,7 +1582,8 @@
         "categories": [
             "ORIGINAL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/runderburger-met-portobellosaus-64650d156ced9aa0d6353c4c"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R12_W36_NL_R0771-21_Main_low-94acc3f8.jpg",
@@ -1304,7 +1598,8 @@
             "POPULAIR",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/lauwwarme-bulgur-linzensalade-met-avocadodip-en-witte-kaas-64650d148c393b044d744898"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211227_R22_W05_NL_R3951-2_MB_Main_low-4a6f06d5.jpg",
@@ -1317,7 +1612,8 @@
             "FAMILIE",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/boerenworst-met-pastinaak-wortelstoemp-64650d126ced9aa0d6353c49"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220822_R20_W40_NL_R16221672-3_KB_Main_low-cf029f4b.jpg",
@@ -1330,7 +1626,8 @@
             "VEGAN",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-nuggets-met-peterseliekrieltjes-64650d118c393b044d744895"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R18_W27_BNL_Q3575-9_Main__5low-c57711fc.jpg",
@@ -1346,7 +1643,8 @@
             "CALORIEBEWUST",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/conchiglie-uit-de-oven-met-mozzarella-64650d116ced9aa0d6353c46"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF200303_R24_W15_NL_X2460-1_Main_Extra_no_salad_low-0232ea56.jpg",
@@ -1362,7 +1660,8 @@
             "KLIMAATBEWUST",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/groentelasagne-met-zelfgemaakte-roomsaus-64650d100c1e02e39244a19f"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R01_W36_NL_R3094-13_Main_low-baa3171e.jpg",
@@ -1376,7 +1675,8 @@
             "POPULAIR",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/heekfilet-a-la-meuniere-met-spinazie-64650d0f6ced9aa0d6353c43"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221017_R217_W49_FR_QNL0114-9_KB_Main_low-d14a1531.jpg",
@@ -1390,7 +1690,8 @@
             "FAMILIE",
             "BACK-TO-SCHOOL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/snelle-pasta-met-gehaktballen-64650d0f0c1e02e39244a19c"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221007_R53_W46_NL_R2899-7_KB_Main_3_low-d6501546.jpg",
@@ -1401,7 +1702,8 @@
         "categories": [
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/frietjes-met-pindasaus-en-hamburger-64650d0b6ced9aa0d6353c40"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220530_R54_W27_NL_R5277-1_Classic_Main_low-e8562755.jpg",
@@ -1413,7 +1715,8 @@
             "EXTRA GROENTE",
             "VEGGIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/auberginerolletjes-met-paneer-64650d0a8c393b044d744892"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R77_W35_NL_P6809-2_Main_low-685a422b.jpg",
@@ -1424,7 +1727,8 @@
         "categories": [
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/loaded-chili-cheese-dog-64650cf20c1e02e39244a196"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R14_W17_NL_Q5124-2_Main_low-c2caa4c6.jpg",
@@ -1435,7 +1739,8 @@
         "categories": [
             "LEKKER SNEL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/parelcouscous-met-biefstukreepjes-in-knoflook-64650cf16ced9aa0d6353c3d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R09_W26_BNL_R3095-8_Main__low-8fae7557.jpg",
@@ -1447,7 +1752,8 @@
             "LEKKER SNEL",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/fajitas-met-rundergehakt-avocado-en-tomatensalsa-64650cf08c393b044d74488f"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R76_W15_NL_U6722-1_Main_low-1ac262f9.jpg",
@@ -1460,7 +1766,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/cheesy-vegetarische-driekazenlasagne-64650cef6ced9aa0d6353c3a"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R75_W12_NL_P5720-3_Main_PR_low-04c34da8.jpg",
@@ -1472,7 +1779,8 @@
             "LEKKER SNEL",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gemarineerde-kipfilet-in-bearnaisesaus-64650cee8c393b044d74488c"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221130_R72_W03_NL_P2307-9_MB_Main_low-0a9e7802.jpg",
@@ -1483,7 +1791,8 @@
         "categories": [
             "EXTRA GROENTE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/luxe-gemarineerde-steak-met-verse-pappardelle-64650cec8c393b044d744889"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210128_R62_W10_NL_R2744-1_MB_Main_classic_low-2bef16d9.jpg",
@@ -1496,7 +1805,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-vol-au-vent-met-champignons-64650cea6ced9aa0d6353c37"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R73_W35_NL_P5576-5_Main__low-6493a4a6.jpg",
@@ -1508,7 +1818,8 @@
             "LEKKER SNEL",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/steak-met-pepersaus-64650ce78c393b044d744886"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/legumes-rotis-et-riz-au-lait-de-coco-93d21e7f-b26106a1.jpg",
@@ -1520,7 +1831,8 @@
             "EXTRA GROENTE",
             "VEGGIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gele-curry-met-spiegelei-en-geroosterde-groenten-64650ce66ced9aa0d6353c31"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R26_W35_NL_R3221-4_Main__5low-4f654ce8.jpg",
@@ -1531,7 +1843,8 @@
         "categories": [
             "ORIGINAL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gevulde-varkenshaas-met-ham-en-oude-kaas-64650ce50c1e02e39244a190"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R31_W23_NL_R2410-8_Main_low-c664eb7b.jpg",
@@ -1543,7 +1856,8 @@
             "LEKKER SNEL",
             "HEALTHY-LUNCH-BREAK",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/broodje-met-zelfgemaakte-zalmsalade-64650ce48c393b044d744883"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R22_W35_NL_R2207-17_Main__2low-9fb43fb2.jpg",
@@ -1554,7 +1868,8 @@
         "categories": [
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/heeklende-met-knoflookbotersaus-64650ce28c393b044d744880"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210303_R314_W15_NL_Q00533516-1_KB_Main_low-9f6e7149.jpg",
@@ -1570,7 +1885,8 @@
             "KLIMAATBEWUST",
             "HEALTHY-LUNCH-BREAK",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/drie-tomatensoep-met-zelfgemaakte-kaascroutons-64650ce26ced9aa0d6353c2e"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R53_W06_NL_R1347-11_MB_Main_4_low-6bb07a96.jpg",
@@ -1583,7 +1899,8 @@
             "EXTRA GROENTE",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pikante-stoemp-van-paksoi-met-spekjes-64650ce06ced9aa0d6353c2b"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R18_W35_NL_R3927-10_Main_low-374782b9.jpg",
@@ -1596,7 +1913,8 @@
             "EXTRA GROENTE",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/varkensworstjes-in-honing-mosterdmarinade-64650cdf8c393b044d74487d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R05_W18_NL_R4942-5_Main_PR__3low-fcd14247.jpg",
@@ -1610,7 +1928,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-schnitzel-met-bieslookroomsaus-64650cde6ced9aa0d6353c28"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211008_R210_W47_FR_RNL0963-9_MB_classic_edit__Main_low-edc86a9e.jpg",
@@ -1623,7 +1942,8 @@
             "INSPIRATIE",
             "LEKKER SNEL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/braziliaanse-visstoof-met-rijst-en-kokosmelk-64650cdb8c393b044d74487a"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R32_W26_BNL_Q4206-5_Main_low-3183070a.jpg",
@@ -1636,7 +1956,8 @@
             "FAMILIE",
             "HEALTHY-LUNCH-BREAK",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pasta-met-kippendijreepjes-en-mozzarella-64650cda6ced9aa0d6353c1f"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220104_R03_W03_NL_R4915-1_switch_peppers_MB_Main_low-9452206c.jpg",
@@ -1650,7 +1971,8 @@
             "LEKKER SNEL",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kipworstjes-met-parelcouscous-64650cd98c393b044d744877"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210601_R82_W28_NL_X22114163-1_MB_Main_low_remove_meatballs_edit-727ab744.jpg",
@@ -1662,7 +1984,8 @@
             "LEKKER SNEL",
             "VEGGIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/penne-in-aubergine-roomsaus-64650cd88c393b044d744874"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220727_R02_W36_NL_R1252-22_KB_Main_low-6da1a473.jpg",
@@ -1677,7 +2000,8 @@
             "ADD-ON-BESTSELLER",
             "DINNERS",
             "VEGAN"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/dahl-met-zoete-aardappel-en-kokosmelk-64650cd58c393b044d74486e"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R21_W10_NL_Q4608-3_Main_5_low-24217b8e.jpg",
@@ -1691,7 +2015,8 @@
             "POPULAIR",
             "DINNERS",
             "VEGAN"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/crispy-sesam-bloemkoolstukjes-64650cd40c1e02e39244a18d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R09_W19_NL_Q3627-6_Main_low-9ab45e5c.jpg",
@@ -1703,7 +2028,8 @@
             "LEKKER SNEL",
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/teriyaki-gehaktballetjes-met-rijst-64650cd38c393b044d74486b"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R27_W28_BNL_R4240-3_Main_low-fb17c5df.jpg",
@@ -1715,7 +2041,8 @@
             "FAMILIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/chicken-parmigiana-64650cd36ced9aa0d6353c1c"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R11_W16_BNL_R6235-1_Main_low-f27ef3fc.jpg",
@@ -1728,7 +2055,8 @@
             "LEKKER SNEL",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gehakt-op-zn-vietnamees-met-bruine-rijst-64650cd20c1e02e39244a18a"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R03_W35_NL_R4225-10_Main_low-a77a8ef5.jpg",
@@ -1742,7 +2070,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/tex-mex-ovenschotel-met-zoete-aardappel-64650ccf6ced9aa0d6353c19"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R02_W35_NL_R0661-22_Main__2low-76fa570f.jpg",
@@ -1758,7 +2087,8 @@
             "POPULAIR",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/paddenstoelenrisotto-van-orzo-64650cce0c1e02e39244a187"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R54_W21_BNL_R6300-1_Main_low-360b6f55.jpg",
@@ -1770,7 +2100,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "INSPIRATIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/risotto-met-miso-paddenstoelen-6464e4820c1e02e39244a17f"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R28_W28_BNL_R5099-3_Main__3low-b4d4025d.jpg",
@@ -1781,7 +2112,8 @@
         "categories": [
             "CALORIEBEWUST",
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/citroen-en-tijm-varkensworst-van-brandt-and-levie-met-patatjes-646396cf6ced9aa0d6353bd6"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221103_R76_W50_NL_P2362-5_KB_Main_low-dea55b8a.jpg",
@@ -1791,7 +2123,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/visgratin-van-kabeljauw-koolvis-zalm-en-garnalen-646245ed0c1e02e39244a0c2"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221109_R01_W51_NL_R0773-20_MB_Main_bg_low-fd855902.jpg",
@@ -1801,7 +2134,8 @@
         "difficulty": "Moeilijk",
         "categories": [
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/risotto-met-venkel-en-varkensworst-van-brandt-and-levie-645bc54ea116286892337388"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R21_W36_NL_R6320-2_Main_low-e1c00244.jpg",
@@ -1815,7 +2149,21 @@
             "POPULAIR",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/romige-volkoren-fusilli-met-bloemkool-645b5d98a116286892337333"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF191219_R04_W04_NL_R2074-1_Main_low-b377b0f3.jpg",
+        "title": "Vegan portobello noedelsoep \u00e0 la pho",
+        "extra": "met rijstnoedels en limoen",
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "VEGAN",
+            "INSPIRATIE",
+            "POPULAIR"
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegan-portobello-noedelsoep-a-la-pho-645a59f074ba2c58f3c097bb"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/pain-de-viande-a-la-provencale-36cd89c8-6ba553e4.jpg",
@@ -1825,7 +2173,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/provencaals-gehaktbrood-6453b042572079217b737d39"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y31_R17_W31_BNL_R5102-4_Main__1low-f836966f.jpg",
@@ -1838,7 +2187,8 @@
             "VEGGIE",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/peruaanse-vegetarische-portobello-tomatenstoof-met-spiegelei-64526109572079217b737cab"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220623_R54_W31_NL_Q5279-1_MB_Main_low-a4b0db58.jpg",
@@ -1852,7 +2202,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gepaneerde-witte-kaas-met-patatjes-64526093b0a4d655ddff9a0b"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R15_W21_BNL_R16171626-10_Main_low-185365bb.jpg",
@@ -1864,7 +2215,8 @@
             "LEKKER SNEL",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/milde-viscurry-64524f45b0a4d655ddff9a02"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/filet-de-saumon-poele-et-mayonnaise-a-laneth-90ace717-a4094953.jpg",
@@ -1874,7 +2226,8 @@
         "difficulty": "Makkelijk",
         "categories": [
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gebakken-zalmfilet-met-dille-mayonaise-64510609e915ac78ee7c67df"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220810_R14_W38_NL_Q4911-1_KB_Main_8_low-470f9aff.jpg",
@@ -1884,8 +2237,9 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "LEKKER SNEL",
-            "SNELLEBEREIDING"
-        ]
+            "SNELLE BEREIDING"
+        ],
+        "source": "https://www.hellofresh.be/recipes/snelle-spaghetti-met-citroen-knoflookgarnalen-644bdb87a7de25dd4f19414d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R18_W09_NL_R3402-5_Main_low-8e7a916a.jpg",
@@ -1898,7 +2252,8 @@
             "EXTRA GROENTE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/bulgursalade-met-kipfilet-en-geroosterde-bietjes-644bd4f6d33c4d3a387cf46e"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R75_W27_BNL_P6767-1_Main__4low-c1821db8.jpg",
@@ -1909,7 +2264,8 @@
         "categories": [
             "FAMILIE",
             "ADD-ON-NEW"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/siciliaanse-pasta-met-kip-en-parmigiano-644bd4f0d33c4d3a387cf46b"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/risotto-d-orge-perle-et-courge-butternut-rotie-61ae896a-95996c81.jpg",
@@ -1924,7 +2280,8 @@
             "INSPIRATIE",
             "POPULAIR",
             "FALL-FLAVOURS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/parelgerst-risotto-met-geroosterde-pompoen-644bce63d33c4d3a387cf467"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R04_W37_NL_R5826-4_Mainlow-1be43ef9.jpg",
@@ -1934,11 +2291,12 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "LEKKER SNEL",
-            "EATMEFIRST",
+            "EAT ME FIRST",
             "FAMILIE",
             "KLIMAATBEWUST",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/tonijn-avocadobowl-met-furikake-644936f9b3e6d9a85fbc34a2"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R23_W15_NL_R6403-1_Main_low-1cab061d.jpg",
@@ -1953,7 +2311,8 @@
             "KLIMAATBEWUST",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/aubergine-met-zaatar-en-tomatencouscous-6447e01db3e6d9a85fbc3437"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R13_W25_NL_Q5330-4_remove_red_cabbage_editMain_low-36773703.jpg",
@@ -1965,7 +2324,8 @@
             "LEKKER SNEL",
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/brandt-and-levie-citroen-tijmworst-met-gebakken-patatjes-64462ef25e10a608977d1f10"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R75_W24_NL_P6769-1_Main_low-0ee27eb7.jpg",
@@ -1976,7 +2336,8 @@
         "categories": [
             "LEKKER SNEL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/krokant-gebakken-gnocchi-met-merguez-en-garnalen-64462eefb1e45fa70eda90b7"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF201209_R53_W02_NL_R2893-1_KB_Main_low-1b27d748.jpg",
@@ -1986,7 +2347,8 @@
         "difficulty": "Moeilijk",
         "categories": [
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kalkoensate-met-gesmoorde-kokosboontjes-64462eedb9e290fea667b11d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220819_R17_W40_NL_Q5697-1_KB_Main_Low-80cd603c.jpg",
@@ -1999,7 +2361,8 @@
             "FAMILIE",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/schnitzel-met-knoflook-gemberrijst-64462eebb9e290fea667b11a"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R72_W33_BNL_P2093-17_Main_S2__44low-9cbcdbe0.jpg",
@@ -2011,7 +2374,8 @@
             "FAMILIE",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gepocheerde-zalmfilet-met-beurre-blanc-64462eea5e10a608977d1f0d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220801_R10_W38_NL_R5196-2_KB_Main_bg_high-ab910a0a.jpg",
@@ -2026,7 +2390,8 @@
             "LEKKER SNEL",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-kaasschnitzel-met-pikante-zoete-aardappelpuree-64462ee8b9e290fea667b117"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220510_R17_W25_NL_Q4585-2_MB_Main_white_carrot_edit_low-fb9dba33.jpg",
@@ -2039,7 +2404,8 @@
             "LEKKER SNEL",
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kip-yakitori-met-zoete-aziatische-saus-en-gomasio-64462ee7b1e45fa70eda90b4"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220727_R22_W36_NL_R3399-6_KB_Main_low-7c685ea4.jpg",
@@ -2052,7 +2418,8 @@
             "FAMILIE",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kalkoenfilet-met-basilicumroomsaus-en-aardappelpartjes-64462ee5b1e45fa70eda90b1"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210621_R15_W28_NL_R3919-1_MB_Main_bg_low-515a9bc1.jpg",
@@ -2063,7 +2430,8 @@
         "categories": [
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gehaktbrood-met-mozzarella-en-saus-van-ui-64462ee35e10a608977d1f0a"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220608_R23_W28_NL_R5278-1_MB_Main_low-3c58d4aa.jpg",
@@ -2074,7 +2442,8 @@
         "categories": [
             "VEGGIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/zelfgemaakte-hummus-met-falafel-64462ee2b1e45fa70eda90ae"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R18_W25_BNL_R2351-13_Main_low-ec4ada17.jpg",
@@ -2088,7 +2457,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/geroosterde-paprika-geitenkaasplaattaart-64462ee1b1e45fa70eda90ab"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R22_W33_BNL_R5740-5_Main_8_low-d27d28de.jpg",
@@ -2101,7 +2471,8 @@
             "KLIMAATBEWUST",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/falafel-met-geroosterde-groenten-64462ee05e10a608977d1f07"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R18_W33_NL_R2601-12_Main_low-9fcaa59d.jpg",
@@ -2116,7 +2487,8 @@
             "POPULAIR",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/bulgur-met-avocadodip-komkommer-en-cranberrys-64462ede5e10a608977d1f04"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210712_R14_W34_NL_R2880-1_MB_Main_bg_edit_low-337ef9cd.jpg",
@@ -2127,7 +2499,8 @@
         "categories": [
             "VEGGIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pikante-vegetarische-kip-tikka-masala-64462eddb9e290fea667b114"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF200514_R83_W25_NL_X2656-1_MB_Main_no_bread_low-c1f66e2c.jpg",
@@ -2142,7 +2515,8 @@
             "VEGGIE",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/melanzane-alla-parmigiana-64462ed9b9e290fea667b111"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221017_R11_W47_NL_Q6114-1_MB_Main_bg_edit_low-cc23fcc9.jpg",
@@ -2159,7 +2533,8 @@
             "KLIMAATBEWUST",
             "HEALTHY-LUNCH-BREAK",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/eenpansspaghetti-met-tomatensaus-64462ed8b1e45fa70eda90a5"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211108_R11_W51_NL_R4627-1_MB_Main_low-50ad7123.jpg",
@@ -2173,7 +2548,8 @@
             "FAMILIE",
             "HEALTHY-LUNCH-BREAK",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/noedels-met-boerenworst-64462ed75e10a608977d1f01"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220819_R09_W40_NL_Q2868-5_KB_Main_Low-8c9496ed.jpg",
@@ -2188,7 +2564,8 @@
             "KLIMAATBEWUST",
             "HEALTHY-LUNCH-BREAK",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/parelcouscous-met-chorizo-en-courgette-64462ed6b1e45fa70eda90a2"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y25_R07_W25_BNL_IR3845-6_Main_low-223cd920.jpg",
@@ -2201,7 +2578,8 @@
             "POPULAIR",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pizza-bianco-met-courgette-en-groene-pesto-64462ed6b9e290fea667b10e"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R08_W14_NL_R4132-11_Main_low-e46c65bb.jpg",
@@ -2215,7 +2593,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/penne-met-zelfgemaakte-basilicumroom-64462ed5b1e45fa70eda909f"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210602_R12_W28_NL_R11143519_MB_Main_low-749c133f.jpg",
@@ -2226,7 +2605,8 @@
         "categories": [
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pastaschotel-op-zn-grieks-64462ed25e10a608977d1efe"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R19_W09_NL_R4314-7_Main_low_yellow-d13ec660.jpg",
@@ -2240,7 +2620,8 @@
             "VEGGIE",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gebakken-patatjes-met-spiegelei-en-kaas-64462ecfb9e290fea667b10b"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y26_R77_W26_BNL_P6774-1_Main_low-c042f1e2.jpg",
@@ -2252,7 +2633,8 @@
             "FAMILIE",
             "SUMMER-WEEKS",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/koreaanse-bao-buns-met-krokante-kip-64462ea25e10a608977d1efb"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R32_W32_NL_Q5076-5_Main__2low-dc462306.jpg",
@@ -2264,7 +2646,8 @@
             "EXTRA GROENTE",
             "LEKKER SNEL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pikante-curry-met-kip-en-rijst-64462ea0b1e45fa70eda9096"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221031_R25_W52_NL_Q5568-1__remove_seeds_edit__Main_low-01587653.jpg",
@@ -2275,7 +2658,8 @@
         "categories": [
             "VEGGIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/honing-teriyaki-boekoeloekoeburger-64462e9db9e290fea667b108"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R77_W39_NL_P6766-2_Main_low-c80aa40b.jpg",
@@ -2286,7 +2670,8 @@
         "categories": [
             "LEKKER SNEL",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/loaded-soft-tacos-met-varkenshaas-64462e9cb1e45fa70eda9093"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221010_R75_W46_NL_P5454-2_MB_Main_normal_cheese_low-99a3a6fd.jpg",
@@ -2299,7 +2684,8 @@
             "ADD-ON-BESTSELLER",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/meatier-hamburger-met-oude-kaas-en-spek-64462e9b5e10a608977d1ef8"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R52_W24_NL_R0565-51048_Main_low-30ae4545.jpg",
@@ -2310,7 +2696,8 @@
         "categories": [
             "VEGGIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pikante-udon-noedels-met-gemarineerde-eieren-64462e9ab9e290fea667b105"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210326_R07_W21_R3819-1_KB_Main_lemon_wedges_bg_low-60e00630.jpg",
@@ -2322,7 +2709,8 @@
             "FAMILIE",
             "SUMMER-WEEKS",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/groene-risotto-met-ham-en-spinaziepesto-64462e975e10a608977d1ef5"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210803_R63_W37_NL_Q4182-1_MB_Main_red_brown_low-7ae410ba.jpg",
@@ -2334,7 +2722,8 @@
             "EXTRA GROENTE",
             "LEKKER SNEL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/duitse-biefstuk-met-gekaramelliseerd-witloof-64462e945e10a608977d1ef2"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/filet-de-porc-marine-au-miel-et-a-la-moutarde-ab4d0e89-21e3949f.jpg",
@@ -2346,7 +2735,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/honing-mosterd-varkenshaas-64462e92b9e290fea667b102"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R07_W15_BNL_R5820-2_Main_low-a40ba9df.jpg",
@@ -2359,7 +2749,8 @@
             "FAMILIE",
             "ORIGINAL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/boerenworst-met-gebakken-ui-en-currysaus-64462e90b1e45fa70eda908d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221031_R19_W47_NL_R1044-14_KB_Main_Reshot_low_balanced-56090153.jpg",
@@ -2371,7 +2762,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/wildzwijnburger-met-saus-van-pikante-uienchutney-64462e8d5e10a608977d1eef"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R15_W16_BNL_R1199-18_Main_low-1f8c5793.jpg",
@@ -2382,7 +2774,8 @@
         "categories": [
             "LACTOSEVRIJ",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/oosters-gemarineerde-zalmfilet-64462e8cb9e290fea667b0ff"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R61_W24_BNL_Q5935-2_Main_low-8940a4ae.jpg",
@@ -2394,7 +2787,8 @@
             "LEKKER SNEL",
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/heekfilet-met-spinazie-basilicumpuree-64462e88b9e290fea667b0f9"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220722_R02_W33_NL_Q2022-10_MB_Main_Reshot_low-21832d00.jpg",
@@ -2407,7 +2801,8 @@
             "FAMILIE",
             "VEGGIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-schnitzel-met-champignonroomsaus-64462e86b1e45fa70eda9087"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R04_W32_BNL_R2134-14_Main_R_low-bf5abe68.jpg",
@@ -2422,7 +2817,8 @@
             "FAMILIE",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/enchiladas-met-kipgehakt-64462e855e10a608977d1eec"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R24_W12_NL_R6332-1_Main_low-bbb8d4d9.jpg",
@@ -2437,7 +2833,8 @@
             "EXTRA GROENTE",
             "SUMMER-WEEKS",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/mini-tortillas-met-kruidige-kikkererwten-64462e835e10a608977d1ee9"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221108_R20_W51_NL_R3525-2_MB_Main_low-4f225f79.jpg",
@@ -2450,7 +2847,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-kipcurry-met-rijst-64462e82b9e290fea667b0f3"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R01_W32_BNL_Q2317-19_Main_low-19c74596.jpg",
@@ -2466,7 +2864,8 @@
             "POPULAIR",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/krieltjessalade-met-mediterrane-kipfilet-64462e81b1e45fa70eda9084"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R19_W15_BNL_R1205-14_Main_low-9a82f447.jpg",
@@ -2480,7 +2879,8 @@
             "VEGGIE",
             "EXTRA GROENTE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/orzo-met-frisse-citroenricotta-en-kastanjechampignons-64462e81b9e290fea667b0f0"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211129_R18_W50_NL_R2226-4_MB_Main_Reshot_low-831a9f38.jpg",
@@ -2491,7 +2891,8 @@
         "categories": [
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/zelfgemaakte-worstenbroodjes-64462e7c5e10a608977d1ee6"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/lasagne-fraiche-aux-legumes-cf817a85-6c0ccc4b.jpg",
@@ -2505,7 +2906,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/groentelasagne-met-verse-lasagnebladen-64462e7a5e10a608977d1ee3"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R75_W12_NL_P5720-3_Main_PR_low-0e806ce9.jpg",
@@ -2518,7 +2920,8 @@
             "ADD-ON-BESTSELLER",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gemarineerde-kipfilet-in-hollandaisesaus-64462e79b9e290fea667b0ea"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R71_W31_BNL_P2205-12_Main_low-37e12569.jpg",
@@ -2529,7 +2932,8 @@
         "categories": [
             "SUMMER-WEEKS",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/verse-ravioli-met-spek-en-venkel-geitenkaassaus-64462e77b9e290fea667b0e7"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R74_W19_BNL_P5120-4_Main__3low-fc2f0ef1.jpg",
@@ -2542,7 +2946,8 @@
             "ADD-ON-BESTSELLER",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/laksa-op-zn-singaporees-met-garnalen-64462e775e10a608977d1ee0"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220628_R04_W32_SE_V12343792-24_MB_Main_remove_the_spring_onion_low-7ec3326e.jpg",
@@ -2556,7 +2961,8 @@
             "KLIMAATBEWUST",
             "DINNERS",
             "VEGGIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/crispy-bang-bang-bloemkool-met-knoflookrijst-64462e75b9e290fea667b0e4"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R52_W22_BNL_R3563-3_Main__8low-18659efe.jpg",
@@ -2568,7 +2974,8 @@
             "INSPIRATIE",
             "VEGGIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-kipstukjes-in-zoete-sojasaus-64462e73b9e290fea667b0e1"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R51_W31_NL_R0031-8_Main_R__6low-7a576b3e.jpg",
@@ -2582,7 +2989,8 @@
             "KLIMAATBEWUST",
             "SUMMER-WEEKS",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/bulgursalade-met-kipgyros-en-avocadodip-64462e72b1e45fa70eda907e"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R16_W23_BNL_R0298-5_Main_low-6af48ddf.jpg",
@@ -2596,7 +3004,8 @@
             "POPULAIR",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/thais-gekruide-gehaktballetjes-met-noedels-en-appelsien-64462e70b1e45fa70eda907b"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R18_W03_NL_R16961696-9__MB_Main_high-f5a43cf8.jpg",
@@ -2610,7 +3019,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/peruaans-gekruide-parelcouscous-met-zoete-aardappel-en-witte-kaas-64462e6c5e10a608977d1eda"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R18_W23_NL_R16371712-14_Main_low-713967fc.jpg",
@@ -2624,7 +3034,8 @@
             "POPULAIR",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/heekfilet-uit-de-oven-met-mosterd-sojasaus-64462e6bb9e290fea667b0de"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R07_W12_NL_R6416-1_Main_low-90fd4bff.jpg",
@@ -2638,7 +3049,8 @@
             "KLIMAATBEWUST",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/marokkaanse-stoof-met-witte-kaas-64462e6a5e10a608977d1ed7"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R205_W05_FR_FNL2450-3_Main_1_low-68575b4a.jpg",
@@ -2650,7 +3062,8 @@
             "ORIGINAL",
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/linguine-met-champignonroomsaus-en-spekjes-64462e69b9e290fea667b0db"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220613_R08_W29_NL_R29803700-3_MB_Main_low-c0b29853.jpg",
@@ -2664,7 +3077,8 @@
             "VEGGIE",
             "SUMMER-WEEKS",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/rigatoni-alla-norma-64462e655e10a608977d1ed1"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220317_R10_W17_NL_R4536-2_MB_Main_dark_bckgrnd_low-9f22e2c1.jpg",
@@ -2676,7 +3090,8 @@
             "LEKKER SNEL",
             "VEGAN",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pikante-kokoscurry-met-bonen-64462e645e10a608977d1ece"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R09_W31_BNL_Q0021-13_Main_low-db5b0b57.jpg",
@@ -2691,7 +3106,8 @@
             "LACTOSEVRIJ",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/noedels-met-gekruide-kippendij-64462e625e10a608977d1ecb"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220930_R05_W45_NL_R0056-16_MB_Main_Partial_Reshot_2_low-6de4bf5f.jpg",
@@ -2705,7 +3121,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/courgettesoep-met-bospaddenstoelenpesto-64462e61b9e290fea667b0d8"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210128_R302_W10_NL_R1785-6_MB_Main_low-77afdfd1.jpg",
@@ -2718,7 +3135,8 @@
             "EXTRA GROENTE",
             "VEGGIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/flammkuchen-met-mozzarella-en-courgette-64462e5fb9e290fea667b0d5"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R01_W23_NL_R1757-17_Main__10low-800b8499.jpg",
@@ -2733,7 +3151,8 @@
             "EXTRA GROENTE",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gekruide-kipfilet-met-champignonroomsaus-64462e5e5e10a608977d1ec8"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF200220_R06_W13_NL_R1044-5_Main_low-62e1e986.jpg",
@@ -2747,7 +3166,8 @@
             "EXTRA GROENTE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/zoete-aardappelstoemp-met-kruidenkaas-64462e5d5e10a608977d1ec5"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R03_W11_NL_Q6487-1_less_meatballs_Main_11_low-f6bbe583.jpg",
@@ -2760,7 +3180,8 @@
             "FAMILIE",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pasta-met-gehaktballetjes-op-zn-zweeds-in-roomsaus-64462e5c5e10a608977d1ec2"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R15_W15_BNL_Q4631-4_darken_meat_Main_low-600e9e12.jpg",
@@ -2772,7 +3193,8 @@
             "LEKKER SNEL",
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/penne-met-italiaans-gekruid-rundergehakt-en-kruidenroomkaas-64462e585e10a608977d1ebc"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R26_W23_NL_R6182-2_Main_low-51a4413d.jpg",
@@ -2783,7 +3205,8 @@
         "categories": [
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/afrikaans-gekruide-kipdrumsticks-met-couscous-64462e57b9e290fea667b0d2"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220510_R05_W25_NL_R2293-11_MB_Main_low-d74884c3.jpg",
@@ -2796,7 +3219,8 @@
             "FAMILIE",
             "POPULAIR",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/quiche-met-broccoli-en-oude-kaas-64462e54b1e45fa70eda9078"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R77_W24_NL_P6817-1_Main_low-db332f43.jpg",
@@ -2808,7 +3232,8 @@
             "FAMILIE",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/libanees-flatbread-met-rundergehakt-en-labne-64462e53b1e45fa70eda9075"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220428_R14_W23_NL_Q5084-1_MB_Main_express_high-b658a0d2.jpg",
@@ -2820,7 +3245,8 @@
             "LEKKER SNEL",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/krieltjes-met-kipfilethaasjes-64462e525e10a608977d1eb9"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y26_R76_W26_BNL_U6730-1_Main_low-83fd60a1.jpg",
@@ -2831,7 +3257,8 @@
         "categories": [
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/chicken-parmigiana-met-twee-kazen-64462e50b1e45fa70eda9072"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y26_R75_W26_BNL_P5471-5_Main_low-87cf79c6.jpg",
@@ -2843,7 +3270,8 @@
             "LEKKER SNEL",
             "HEALTHY-LUNCH-BREAK",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/truffel-paddenstoelen-tagliatelle-met-varkenshaas-64462e4fb1e45fa70eda906f"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221027_R71_W49_NL_P5937-1_MB_Main_low-bcb88abc.jpg",
@@ -2854,7 +3282,8 @@
         "categories": [
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/luxe-burger-met-truffelmayonaise-en-portobello-64462e49b9e290fea667b0cc"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R74_W34_BNL_P2227-12-Main__low-bfc74f55.jpg",
@@ -2867,7 +3296,8 @@
             "ADD-ON-BESTSELLER",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/bao-bun-met-sticky-varkenshaas-64462e48b1e45fa70eda906c"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF200327_R21_W18_NL_X2527-1_MB_Main_low-4a125cc8.jpg",
@@ -2881,7 +3311,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/rigatoni-in-paddenstoelenroomsaus-met-gebakken-witloof-64462e465e10a608977d1eb6"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211110_R201_W52_FR_RNL16521711-3_MB_Main_low-a061c242.jpg",
@@ -2891,7 +3322,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/romige-aardappelschotel-met-warmgerookte-zalm-64462e45b9e290fea667b0c9"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220725_R63_W35_NL_R0082-15_KB_Main_tartar_remove_the_sunflower_seeds_edit_low-cd3d695f.jpg",
@@ -2903,7 +3335,8 @@
             "EXTRA GROENTE",
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/meatier-burger-met-gekaramelliseerde-witloof-64462e44b9e290fea667b0c6"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23__R20_W17_BNL_R2363-15_Main_low-8290cbe1.jpg",
@@ -2915,7 +3348,8 @@
             "VEGAN",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kikkererwtencurry-met-zoete-aardappel-64462e435e10a608977d1eb3"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220817_R21_W39_NL_R1225-8_MB_Main_low-3b2d3234.jpg",
@@ -2927,7 +3361,8 @@
             "INSPIRATIE",
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/varkensworst-van-brandt-and-levie-met-patatas-bravas-64462e41b9e290fea667b0c3"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R22_W34_BNL_R2820-13_Main_low-0f1a934d.jpg",
@@ -2942,7 +3377,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/bloemkoolsteak-met-blauwe-kaas-64462e3eb9e290fea667b0c0"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220905_R09_W42_NL_Q3028-4_KB_Main_low-15dff688.jpg",
@@ -2954,7 +3390,8 @@
             "LEKKER SNEL",
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/oosters-gemarineerde-zalmfilet-met-parelcouscous-64462e3db9e290fea667b0bd"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220923_R06_W44_NL_R1349-20_MB_Main_15_low-105a9a43.jpg",
@@ -2966,7 +3403,8 @@
             "VEGGIE",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/patatas-bravas-met-geitenkaasomelet-64462e3c5e10a608977d1eb0"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220216_R63_W13_NL_R1797-2_MB_Main_3_pieces_low-c1bffceb.jpg",
@@ -2978,7 +3416,8 @@
             "EXTRA GROENTE",
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/witloof-gegratineerd-met-franse-brie-en-appel-64462e3bb9e290fea667b0ba"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220711_R13_W31_NL_Q4923-2_MB_Main_low-a7bac0dc.jpg",
@@ -2989,7 +3428,8 @@
         "categories": [
             "LEKKER SNEL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/duitse-biefstuk-met-zwarte-pepersaus-64462e39b1e45fa70eda9066"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y25_R23_W25_BNL_R2187-6_Main_low-571d93f5.jpg",
@@ -3005,7 +3445,8 @@
             "KLIMAATBEWUST",
             "HEALTHY-LUNCH-BREAK",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/salade-met-gebakken-perzik-en-feta-64462e38b9e290fea667b0b4"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220722_R08_W35_NL_Q3385-5_MB_Main_no_bowl_low-f7c17e40.jpg",
@@ -3017,7 +3458,8 @@
             "LEKKER SNEL",
             "VEGAN",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegan-schnitzelreepjes-met-zoete-aziatische-saus-64462e365e10a608977d1ead"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R05_W26_BNL_R2091_Main_low-aec4329e.jpg",
@@ -3031,7 +3473,8 @@
             "KLIMAATBEWUST",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/shakshuka-met-aardappel-en-italiaanse-kruiden-64462e35b9e290fea667b0ae"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211115_R21_W52_NL_Q4701-1_MB_Main_4_meatballs_low-b0853d31.jpg",
@@ -3043,7 +3486,8 @@
             "LEKKER SNEL",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gehaktballetjes-in-sticky-saus-met-noedels-64462e33b9e290fea667b0ab"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R08_W16_BNL_R2087-13_Main_low-b42775c5.jpg",
@@ -3059,7 +3503,8 @@
             "KLIMAATBEWUST",
             "ADD-ON-BESTSELLER",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/naanpizza-met-geitenkaas-en-groenten-64462e32b9e290fea667b0a8"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220616_R17_W30_NL_R3053-4_MB_Main_low-0762535d.jpg",
@@ -3070,7 +3515,8 @@
         "categories": [
             "FAMILIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/wildzwijnburger-met-mosterdroomsaus-64462e31b1e45fa70eda9063"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220429_R209_W24_FR_RNL0672-13_KB_Main_yellow_high-192eedd3.jpg",
@@ -3082,7 +3528,8 @@
             "LACTOSEVRIJ",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/spinazie-kokoscurry-met-gele-rijst-64462e30b1e45fa70eda9060"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210114_R09_W08_NL_Q2186-4_KB_Main_different_look_low-c0161b13.jpg",
@@ -3096,7 +3543,8 @@
             "LEKKER SNEL",
             "HEALTHY-LUNCH-BREAK",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kip-met-zoete-aziatische-saus-en-bloemkoolrijst-64462e2f5e10a608977d1eaa"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211103_R01_W50_NL_R16061619-14_MB_Main_classic_low-3e3b3909.jpg",
@@ -3108,7 +3556,8 @@
             "FAMILIE",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kruidig-gehaktbrood-met-aardappelpuree-64462e2e5e10a608977d1ea7"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R73_W39_NL_P16149-1_Main__5low-f61e37ff.jpg",
@@ -3119,7 +3568,8 @@
         "categories": [
             "FAMILIE",
             "BACK-TO-SCHOOL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gemarineerde-biefstuk-met-truffelboter-64427bbca2c5edb26f55c186"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R73_W40_NL_P16144-1_Main_4low-8a364271.jpg",
@@ -3129,7 +3579,8 @@
         "difficulty": "Makkelijk",
         "categories": [
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gemarineerde-biefstuk-met-sjalottensaus-64427b706057de58d3396e64"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R21_W10_NL_Q4608-3_Main_5_low-2a8fa347.jpg",
@@ -3142,7 +3593,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/crispy-sesam-bloemkoolroosjes-64411e866647d3e1427a6752"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210719_R03_W35_NL_R3529-2_KB_Main_low-cfd9ed92.jpg",
@@ -3154,7 +3606,8 @@
             "INSPIRATIE",
             "VEGGIE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/japans-geinspireerde-miso-aubergine-met-spiegelei-6440fb0efe894e553312462d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220624_R05_W31_NL_R2743-9_MB_Main_Low-c6ad3f6a.jpg",
@@ -3167,7 +3620,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kapsalon-met-vegetarische-doner-kebab-643e7969bd920571a8a4bfc5"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R77_W38_NL_P3013-12_Main__low-aae7a98b.jpg",
@@ -3178,7 +3632,8 @@
         "categories": [
             "FAMILIE",
             "ADD-ON-BESTSELLER"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pikante-kalfsburger-deluxe-op-zn-mexicaans-643911a0eb12f2327b85ec44"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y31_R54_W31_BNL_R15971-1_Main_low-79b0eeda.jpg",
@@ -3191,7 +3646,21 @@
             "EXTRA GROENTE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kruidige-linzenschotel-met-vegetarisch-gehakt-643804d7b11f6c1474a8a02d"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF201209_R09_W03_NL_Q2911-1_KB_Main_bread_edit_low-2924e249.jpg",
+        "title": "Broodje kipburger caprese",
+        "extra": "met salade van mais, tomaat en chili-mayonaise",
+        "duration": "15 minuten",
+        "difficulty": "Makkelijk",
+        "categories": [
+            "EXTRA GROENTE",
+            "FAMILIE",
+            "LEKKER SNEL"
+        ],
+        "source": "https://www.hellofresh.be/recipes/broodje-kipburger-caprese-643803ab7d6ab6d3a5175cb9"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R31_W25_BNL_R4603-2_Main_low-c33b758e.jpg",
@@ -3203,7 +3672,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kip-in-rozemarijnkorst-met-couscous-6437eeb8b3632d9f9b294020"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220509_R14_W25_NL_Q5100-1_MB_Main_low-348380a2.jpg",
@@ -3214,7 +3684,8 @@
         "categories": [
             "ORIGINAL",
             "LEKKER SNEL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/bowl-met-orzo-en-kippendijreepjes-6437ea1a7d6ab6d3a5175cb2"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220510_R05_W25_NL_R2293-11_MB_Main_low-b075bf18.jpg",
@@ -3225,7 +3696,8 @@
         "categories": [
             "FAMILIE",
             "VEGGIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/quiche-met-broccoli-en-oude-kaas-6437e7e9b3632d9f9b29401c"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R77_W31_NL_P5946-3_Main_F1_R_low-f009ffbb.jpg",
@@ -3235,7 +3707,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/turks-broodje-met-kippendijreepjes-met-kebabkruiden-6437c2667d6ab6d3a5175ca3"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220426_R24_W23_UK_QR3306-26_KB_Main_nologo_low-dc9f0249.jpg",
@@ -3247,7 +3720,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kalkoen-met-harissa-en-geroosterde-bloemkool-6436b72bb11f6c1474a89fb0"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221208_R03_W07_NZ_MB_Main_low_edit-a15e9444.jpg",
@@ -3261,7 +3735,8 @@
             "POPULAIR",
             "BREAKFAST-KITS",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/varkenshaas-met-aardbei-balsamicosaus-6436b4127d6ab6d3a5175c59"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R71_W32_BNL_P2812-3_Main__12low-f874b114.jpg",
@@ -3274,7 +3749,8 @@
             "ADD-ON-BESTSELLER",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/ravioli-met-blauwe-kaassaus-en-walnoot-6436a0f77d6ab6d3a5175c53"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R77_W30_BNL_P01771522-8_Main_low-19d818d1.jpg",
@@ -3284,7 +3760,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pulled-chicken-met-coleslaw-en-maiskolf-643554fbb3632d9f9b293f72"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221019_R71_W47_NL_P0022-14_MB_Main_low-2db36f2d.jpg",
@@ -3296,7 +3773,8 @@
             "ADD-ON-BESTSELLER",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/burger-deluxe-met-kalfsburger-spek-en-spiegelei-643021c6f64a988df102a090"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R16_W36_NL_R6535-2_Main_low-d9d63c88.jpg",
@@ -3307,11 +3785,12 @@
         "categories": [
             "FAMILIE",
             "VEGGIE",
-            "SNELLEBEREIDING",
+            "SNELLE BEREIDING",
             "KLIMAATBEWUST",
             "BACK-TO-SCHOOL",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/cheese-and-onion-pizza-642ff2caf64a988df102a08a"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/FC_Y23_L_W09_CA_Photo_1424_low-1a408b95.jpg",
@@ -3322,7 +3801,19 @@
         "categories": [
             "FAMILIE",
             "LEKKER SNEL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/tostada-met-extra-frisse-witte-kaasdip-en-gekruid-kipgehakt-642fe3f1ef0436ee1a8b9872"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y13_R51_W13_BNL_R3920-8_Main_low-9d8cae27.jpg",
+        "title": "Gepaneerde kippendij met Midden-Oosterse kruiden",
+        "extra": "met rijst, courgette, wortel en sojamayonaise",
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "FAMILIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/gepaneerde-kippendij-met-midden-oosterse-kruiden-642eab764e15eb605b2042e7"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_HelloFresh_Y20_R25_W20_BNL_R4885-3_hide_tomatos_edit_Main_2_low-9cab38b1.jpg",
@@ -3335,8 +3826,9 @@
             "EXTRA GROENTE",
             "LEKKER SNEL",
             "QUICK-LUNCHES",
-            "OMEGA3-VETZUREN"
-        ]
+            "OMEGA 3-VETZUREN"
+        ],
+        "source": "https://www.hellofresh.be/recipes/bulgurbowl-met-warmgerookte-zalmsnippers-642d479e4e15eb605b204284"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221027_R15_W49_R1967-5_add_apples_Main_MB_low-9cbb72d8.jpg",
@@ -3346,7 +3838,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "ORIGINAL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/risotto-met-schelvisfilet-en-pastinaak-642d46b24e15eb605b204281"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R12_W37_NL_R4393-5_Main_R_low-6e39000f.jpg",
@@ -3357,7 +3850,8 @@
         "categories": [
             "VEGGIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegan-nuggets-met-krieltjessalade-642d40da4e15eb605b20427e"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221130_R72_W03_NL_P2307-9_MB_Main_low-e5039de4.jpg",
@@ -3367,7 +3861,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/luxe-verse-pappardelle-met-gemarineerde-steak-stroganoff-642ae9072915d5bacd65085d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y31_R29_W31_BNL_Q01601689-12_Main__1low-2ffd5862.jpg",
@@ -3380,7 +3875,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/curry-met-gekruide-kippendijreepjes-642a8a43a3616f19a2b185ea"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R51_W34_BNL_R0816-22_Main__1low-583e1cac.jpg",
@@ -3395,7 +3891,8 @@
             "EXTRA GROENTE",
             "POPULAIR",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/orzo-met-kip-en-pecorino-6426a3da6153ff0f6d9ded40"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220630_R54_W32_NL_Q5745-1_KB_Main_bg_edit_low-28388dea.jpg",
@@ -3410,7 +3907,8 @@
             "EXTRA GROENTE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-picadillo-met-linzen-6425802c977aa973c8d49dd0"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R11_W33_BNL_R6496-2_Main__14low-c8949b8a.jpg",
@@ -3423,7 +3921,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/groene-curry-met-kip-642430080eb3f556019d5406"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R29_W30_BNL_R6328-2_Main_low-fdf5b7ac.jpg",
@@ -3434,9 +3933,10 @@
         "categories": [
             "CALORIEBEWUST",
             "EXTRA GROENTE",
-            "EATMEFIRST",
+            "EAT ME FIRST",
             "ADD-ON-NEW"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/bowl-op-zn-japans-met-kipgehaktballetjes-641dc8a620d75c77facda427"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/soupe-de-tomate-et-poivron-au-couscous-perle-f733bbd5-e530c708.jpg",
@@ -3451,7 +3951,8 @@
             "VEGGIE",
             "KLIMAATBEWUST",
             "DINNERS"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/tomaat-paprikasoep-met-parelcouscous-641dc59e0647c51e3fb6e094"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220912_R05_W41_NL_R1922-7_KB_Main_Reshot_low-0688a04e.jpg",
@@ -3462,7 +3963,8 @@
         "categories": [
             "FAMILIE",
             "VEGGIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-burger-op-italiaanse-wijze-641dbdc30647c51e3fb6e090"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y25_R23_W25_BNL_R2187-6_Main_low-13bf6801.jpg",
@@ -3476,7 +3978,8 @@
             "VEGGIE",
             "EXTRA GROENTE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/salade-met-gebakken-perzik-en-feta-641d6ecdfd99775f18f75e23"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R77_W29_BNL_P3853-3_Main_low-ff96bc5e.jpg",
@@ -3484,7 +3987,8 @@
         "extra": "met appelsiensalade, frietjes en limoenmayonaise",
         "duration": "50 minuten",
         "difficulty": "Gemiddeld",
-        "categories": []
+        "categories": [],
+        "source": "https://www.hellofresh.be/recipes/burger-op-zn-aziatisch-met-zoete-kippendij-641c73eaffff20670444275c"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211217_R14_W04_NL_R4262-1_KB_Main_low-3ebd41a3.jpg",
@@ -3496,7 +4000,8 @@
             "EXTRA GROENTE",
             "VEGGIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/ovenschotel-met-vegetarische-kipstukjes-en-kaassaus-641c671ffd99775f18f75e08"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_M_CW22_NL_PL-201_PHOTO6_HF_Y23_R76_W30_NL_P3013-11_Main_F3_low-a9e487c1.jpg",
@@ -3504,7 +4009,8 @@
         "extra": "met tomatensalsa, avocadodip en bietennacho's met jalape\u00f1o's",
         "duration": "30 minuten",
         "difficulty": "Gemiddeld",
-        "categories": []
+        "categories": [],
+        "source": "https://www.hellofresh.be/recipes/pikante-kalfsburger-deluxe-met-mexicaanse-draai-641c671cf3401edfeff1aef1"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R75_W30_BNL_P5441-5Main_low-0719b1ee.jpg",
@@ -3514,7 +4020,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "LEKKER SNEL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/verse-pappardelle-met-gebakken-kabeljauw-641c671affff206704442756"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R76_W19_BNL_P6736-1_Main__4low-09c6bb62.jpg",
@@ -3522,7 +4029,8 @@
         "extra": "met garnalen en spek",
         "duration": "35 minuten",
         "difficulty": "Gemiddeld",
-        "categories": []
+        "categories": [],
+        "source": "https://www.hellofresh.be/recipes/hokkien-mee-noedels-op-zn-singaporees-641c6719fd99775f18f75e05"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R72_W30_NL_P6596-2_Main_low-ffbf6ef3.jpg",
@@ -3533,7 +4041,8 @@
         "categories": [
             "EXTRA GROENTE",
             "EENPANSGERECHT"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/spaanse-linguine-met-garnalen-en-vismelange-641c6718f3401edfeff1aeee"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R17_W17_BNL_R4176-3_Main_low-f89f180c.jpg",
@@ -3544,7 +4053,8 @@
         "categories": [
             "EXTRA GROENTE",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/zelfgemaakte-mini-empanadas-met-rundergehakt-641c6717fd99775f18f75e02"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R62_W30_BNL_R4391-2_Main_low-b4156b98.jpg",
@@ -3556,7 +4066,8 @@
             "INSPIRATIE",
             "VEGGIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/falafel-in-pitabroodjes-met-knoflooksausje-641c6716ffff206704442753"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220630_R15_W32_NL_R3307-5_KB_Main_high-33365f09.jpg",
@@ -3567,7 +4078,8 @@
         "categories": [
             "CALORIEBEWUST",
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/varkensfilet-met-frisse-citroendressing-641c6715fd99775f18f75dff"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221010_R72_W46_NL_P020161716-6_MB_Main_low-83b63009.jpg",
@@ -3577,7 +4089,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/klassieke-filet-mignon-in-mosterdsaus-641c6715ffff206704442750"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R03_W13_NL_R16301668-15_Main_PR_low-46af9fac.jpg",
@@ -3589,7 +4102,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/varkensoester-met-zelfgemaakte-saus-641c6714f3401edfeff1aeeb"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R61_W30_NL_Q0023-19_Main_R_low-f433d580.jpg",
@@ -3600,7 +4114,8 @@
         "categories": [
             "LEKKER SNEL",
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/farfalle-met-kipgehakt-in-roomsaus-641c6712f3401edfeff1aee8"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220930_R02_W45_NL_R1798-17_MB_Main_add_potatoes_low-8a42bb03.jpg",
@@ -3613,7 +4128,8 @@
             "CALORIEBEWUST",
             "VEGGIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/flammkuchen-met-brie-en-appel-641c6710ffff20670444274d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/gratin-de-boeuf-hache-et-puree-d-epinards-ed1e419d-bf05f230.jpg",
@@ -3626,7 +4142,8 @@
             "EXTRA GROENTE",
             "FAMILIE",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/ovenschotel-met-rundergehakt-en-spinaziepuree-641c670ff3401edfeff1aee5"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R62_W09_NL_Q6360-1_Main_low-aa724999.jpg",
@@ -3637,7 +4154,8 @@
         "categories": [
             "INSPIRATIE",
             "VEGGIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/filipijnse-groene-linzencurry-met-kokosmelk-641c670effff20670444274a"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221101_R19_W50_NL_R0783-12h_KB_Main_high-46e06ad1.jpg",
@@ -3650,7 +4168,8 @@
             "VEGGIE",
             "EXTRA GROENTE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/orzo-met-courgette-en-kerstomaten-641c670cffff206704442747"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211208_R01_W03_NL_R1868-9_KB_Main_low-ba248085.jpg",
@@ -3662,7 +4181,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/mini-tortillas-met-varkenshaasstukjes-en-gomasio-641c670affff206704442744"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221117_R20_W03_NL_R4935-4_MB_Main_bg_low-454e1b1d.jpg",
@@ -3674,7 +4194,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kipgyros-met-kruidige-bulgur-641c6708fd99775f18f75dfc"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220711_R06_W34_NL_R2508-9_KB_Main_4_low-5272456d.jpg",
@@ -3686,7 +4207,8 @@
             "EXTRA GROENTE",
             "FAMILIE",
             "VEGGIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/courgette-uit-de-oven-in-romige-tomatensaus-641c6706fd99775f18f75df9"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R14_W22_BNL_Q2549-13_Main_PR__2low-28cbd696.jpg",
@@ -3697,7 +4219,8 @@
         "categories": [
             "LEKKER SNEL",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/cheddar-varkensworst-van-brandt-and-levie-met-pestokrieltjes-641c6705ffff206704442741"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220711_R17_W34_NL_R2277-10_KB_Main_6_low-f71af70e.jpg",
@@ -3711,7 +4234,8 @@
             "VEGGIE",
             "POPULAIR",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/bulgursalade-met-gegrilde-groenten-en-geitenkaas-641c6704f3401edfeff1aedf"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/pates-au-poulet-facon-alfredo-66c9ad8a-1f553dad.jpg",
@@ -3722,7 +4246,8 @@
         "categories": [
             "LEKKER SNEL",
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/eenpanspasta-kip-alfredo-641c6702ffff20670444273e"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R08_W15_BNL_Q5290-4_Main_low-5748c3c2.jpg",
@@ -3734,7 +4259,8 @@
             "LEKKER SNEL",
             "VEGGIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/baba-ganoushbowl-met-couscous-en-witte-kaas-641c6701fd99775f18f75df6"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R23_W11_NL_R2114-6_bg_low-599bc860.jpg",
@@ -3747,7 +4273,8 @@
             "EXTRA GROENTE",
             "FAMILIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gepofte-aardappel-met-spek-zure-room-en-belegen-kaas-641c6700fd99775f18f75df3"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R06_W05_NL_RR14731493-16_MB_Main_R_low-24034135.jpg",
@@ -3758,7 +4285,8 @@
         "categories": [
             "VEGGIE",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/indiase-linzenstoof-met-naan-641c66ffffff20670444273b"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R04_W22_BNL_R0971-7_Main__3low-3985af48.jpg",
@@ -3770,7 +4298,8 @@
             "CALORIEBEWUST",
             "LEKKER SNEL",
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/groene-curry-met-garnalen-en-rijst-641c66fef3401edfeff1aedc"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221010_R20_W46_NL_Q5960-1_MB_Main_bg_low-0c60d602.jpg",
@@ -3783,7 +4312,8 @@
             "EXTRA GROENTE",
             "LEKKER SNEL",
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/krieltjes-in-paprikasaus-met-kipworstjes-641c66fdffff206704442738"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R53_W30_NL_R0938-14_Main_low-94c8b43d.jpg",
@@ -3796,7 +4326,8 @@
             "EXTRA GROENTE",
             "VEGGIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pompoen-pindasoep-met-gekookt-ei-641c66fbffff206704442735"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220930_R21_W45_NL_R3126-7_MB_Main_Partial_Reshot_3_low-0dbaab54.jpg",
@@ -3806,7 +4337,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/duitse-biefstuk-met-saus-van-ui-641c66fbfd99775f18f75df0"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y30_R52_W30_BNL_Q6185-4_Main_low-4ce30ee6.jpg",
@@ -3818,7 +4350,8 @@
             "LEKKER SNEL",
             "VEGAN",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/tofubowl-met-pindasaus-en-paksoi-641c66faffff206704442732"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210803_R13_W37_NL_Q3023-1_MB_Main_low-8f4e3d11.jpg",
@@ -3830,7 +4363,8 @@
             "LEKKER SNEL",
             "FAMILIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pulled-chicken-wraps-met-koolsla-641c66e2f3401edfeff1aed9"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R75_W06_NL_P5706-3_Main_edit_low-af17b81c.jpg",
@@ -3840,7 +4374,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "LEKKER SNEL"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gebakken-gnocchi-met-gemarineerde-kipfiletreepjes-641c66dff3401edfeff1aed6"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R54_W08_NL_R6271-1_Main_low-dedcf878.jpg",
@@ -3850,7 +4385,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "VEGGIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kruidige-kikkererwtenstoof-met-spinazie-en-witte-kaas-641c66defd99775f18f75ded"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R52_W15_NL_Q4634-2_Main_low-76f0087b.jpg",
@@ -3861,7 +4397,8 @@
         "categories": [
             "LEKKER SNEL",
             "VEGGIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-kipstukjes-met-sperziebonen-641c66dcfd99775f18f75dea"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220711_R53_W34_NL_R1316-15_KB_Main_Low-bc859301.jpg",
@@ -3871,7 +4408,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/mexicaans-gekruide-kippendijfilet-641c66dbf3401edfeff1aed3"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R72_W07_NL_P2102-3__KB_Main_low-b63d9816.jpg",
@@ -3879,7 +4417,8 @@
         "extra": "met gebakken courgette en tomatenketchup",
         "duration": "35 minuten",
         "difficulty": "Gemiddeld",
-        "categories": []
+        "categories": [],
+        "source": "https://www.hellofresh.be/recipes/klassieke-scampi-diabolique-in-currysaus-641c66d9ffff20670444272c"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220530_R71_W27_NL_P3035-3_MB_Main_Partial_Reshot_salad_low-3f74faf0.jpg",
@@ -3889,7 +4428,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/zalmfilet-in-zelfgemaakte-kruidenkorst-met-gepofte-kerstomaten-641c66d9fd99775f18f75de7"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_HelloFresh_Y20_R63_W20_BNL_R12383539-6_Main_2_low-1ea7d831.jpg",
@@ -3897,7 +4437,8 @@
         "extra": "met krokant gebakken spruitjes en knoflook",
         "duration": "45 minuten",
         "difficulty": "Gemiddeld",
-        "categories": []
+        "categories": [],
+        "source": "https://www.hellofresh.be/recipes/rookworst-met-aardappelgratin-641c66d6f3401edfeff1aed0"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R10_W05_IE_IEXCVCLV0112-2_KB_Main_sausages_edit_low-697f4e32.jpg",
@@ -3908,7 +4449,8 @@
         "categories": [
             "FAMILIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/kipworstjes-met-zoete-aardappelstoemp-641c66d4f3401edfeff1aecd"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R22_W19_BNL_R2497-7_Main_1_R_low-0eb11fa3.jpg",
@@ -3922,7 +4464,8 @@
             "VEGGIE",
             "POPULAIR",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/halve-paprikas-gevuld-met-orzo-en-courgette-641c66d2fd99775f18f75de4"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R27_W20_BNL_R4291-6_Main_R_low-7bd909ff.jpg",
@@ -3935,7 +4478,8 @@
             "EXTRA GROENTE",
             "LEKKER SNEL",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/tjap-tjoy-met-kippendijreepjes-641c66d2f3401edfeff1aeca"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R18_W29_BNL_R1325-11_MAINlow-ed0a45a0.jpg",
@@ -3947,7 +4491,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "VEGGIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/feta-uit-de-oven-met-orzo-641c66d0fd99775f18f75de1"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221122_R25_W06_NL_R6299-1_KB_Main_low-3b7aae5c.jpg",
@@ -3958,7 +4503,8 @@
         "categories": [
             "VEGGIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/spaghetti-met-romige-zelfgemaakte-camembertsaus-641c66cfffff206704442729"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210712_R16_W34_NL_R2442-3_MB_Main_classic_low-cb46faad.jpg",
@@ -3966,7 +4512,8 @@
         "extra": "met aardappelschijfjes en oude kaas",
         "duration": "40 minuten",
         "difficulty": "Makkelijk",
-        "categories": []
+        "categories": [],
+        "source": "https://www.hellofresh.be/recipes/gehakt-preischotel-met-italiaanse-kruiden-641c66cefd99775f18f75dde"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/pates-en-sauce-aux-poivrons-rotis-et-fromage-de-chevre-5bb61058-640f43a4.jpg",
@@ -3980,7 +4527,8 @@
             "INSPIRATIE",
             "VEGGIE",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/pasta-met-geroosterde-paprikasaus-en-geitenkaas-641c66cbffff206704442726"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R10_W29_BNL_R10971445-22_MAINlow-70724085.jpg",
@@ -3992,7 +4540,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/scandinavische-salade-met-dorade-641c66caf3401edfeff1aec7"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R06_W21_BNL_Q4702-6_yellow_carrots_Main_low-f5b8d45c.jpg",
@@ -4004,7 +4553,8 @@
             "LEKKER SNEL",
             "VEGGIE",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/snelle-vegetarische-ramen-met-kastanjechampignons-641c66c9ffff206704442723"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220419_R09_W21_NL_R1180-14_MB_Main_bckgrnd_low-4fd4b4d1.jpg",
@@ -4015,7 +4565,8 @@
         "categories": [
             "LEKKER SNEL",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/duitse-biefstuk-met-pikante-zoete-aardappelpuree-641c66c8fd99775f18f75ddb"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R08_W29_BNL_Q3935-14_Main__5low-e7723140.jpg",
@@ -4030,7 +4581,8 @@
             "CALORIEBEWUST",
             "EXTRA GROENTE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/zoetzure-tofuwraps-met-mangochutney-641c66c8f3401edfeff1aec4"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R04_W29_BNL_Q2199-19_Main_low-dcb85ac7.jpg",
@@ -4042,7 +4594,8 @@
             "LEKKER SNEL",
             "FAMILIE",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/snelle-pasta-op-zn-mexicaans-641c66c7ffff206704442720"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220822_R20_W40_NL_R16221672-3_KB_Main_high-449bd5cd.jpg",
@@ -4054,7 +4607,8 @@
             "FAMILIE",
             "VEGGIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/vegetarische-nuggets-met-peterseliekrieltjes-641c66c6f3401edfeff1aec1"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R06_W29_BNL_R3895-12_PRMain_low-58fd5961.jpg",
@@ -4066,7 +4620,8 @@
             "INSPIRATIE",
             "VEGGIE",
             "KLIMAATBEWUST"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/aubergine-met-midden-oosterse-kruiden-en-zelfgemaakte-muhammara-641c66c5ffff20670444271d"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210916_R07_W43_NL_R4254-1_MB_Main_add_one_meatball_low-9010fffd.jpg",
@@ -4078,7 +4633,8 @@
             "EXTRA GROENTE",
             "FAMILIE",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/wortel-preistoemp-met-spekjes-en-gehaktballetjes-641c66c4f3401edfeff1aebe"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R77_W25_BNL_P6815-1_Main_low-41881599.jpg",
@@ -4089,7 +4645,8 @@
         "categories": [
             "EXTRA GROENTE",
             "FAMILIE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/mexicaanse-vistacos-met-kiwisalsa-641c66acf3401edfeff1aebb"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R01_W21_BNL_Q3216-13-3_Main_low-07522ead.jpg",
@@ -4100,7 +4657,8 @@
         "categories": [
             "FAMILIE",
             "POPULAIR"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/gehaktballetjes-op-zn-zweeds-in-roomsaus-641c66a8fd99775f18f75dd5"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R73_W28_BNL_P02161717-4_Main_low-5a316f55.jpg",
@@ -4110,7 +4668,8 @@
         "difficulty": "Gemiddeld",
         "categories": [
             "EXTRA GROENTE"
-        ]
+        ],
+        "source": "https://www.hellofresh.be/recipes/zwarte-tagliatelle-met-scampis-641c66a7ffff20670444271a"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220912_R71_W43_NL_P1996-6_KB_Main_apple_low-1096f788.jpg",
@@ -4118,7 +4677,8 @@
         "extra": "met appel-koolsalade en garnering van ontbijtspek en cranberrychutney",
         "duration": "45 minuten",
         "difficulty": "Gemiddeld",
-        "categories": []
+        "categories": [],
+        "source": "https://www.hellofresh.be/recipes/kalfsburger-deluxe-met-oude-kaas-en-ovenfrietjes-641c66a6ffff206704442717"
     },
     {
         "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R74_W20_BNL_P5846-1_remove_peanuts_Main__3low-4455e7c7.jpg",
@@ -4126,6 +4686,715 @@
         "extra": "met aubergine en rode puntpaprika",
         "duration": "45 minuten",
         "difficulty": "Gemiddeld",
-        "categories": []
+        "categories": [],
+        "source": "https://www.hellofresh.be/recipes/luxe-thaise-groene-curry-met-filet-mignon-641c66a5f3401edfeff1aeb8"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R62_W28_BNL_R0368-13_Main__4low-971d8588.jpg",
+        "title": "Orzo met broccoli, pecorino en harissa",
+        "extra": "met verse citroentijm en zonnebloempitten",
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE",
+            "VEGGIE",
+            "LEKKER SNEL",
+            "KLIMAATBEWUST"
+        ],
+        "source": "https://www.hellofresh.be/recipes/orzo-met-broccoli-pecorino-en-harissa-641c66a3f3401edfeff1aeb5"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220623_R03_W31_NL_R3242-5_MB_Main_purple_carrot_edit_low-86157ebd.jpg",
+        "title": "Runderburger met portobellosaus",
+        "extra": "met aardappel-knoflookpuree en geroosterde wortel",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "INSPIRATIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/runderburger-met-portobellosaus-641c66a1fd99775f18f75dd2"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R07_W08_NL_R6365-1_Main_3_low-9f7c77ae.jpg",
+        "title": "Flammkuchen met prei en mozzarella",
+        "extra": "met salade van mesclun, appel en aardappelblokjes",
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "VEGGIE",
+            "KLIMAATBEWUST"
+        ],
+        "source": "https://www.hellofresh.be/recipes/flammkuchen-met-prei-en-mozzarella-641c669ffd99775f18f75dcf"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220624_R12_W26_NL_R0771-12_MB_Main_Low-c198e30f.jpg",
+        "title": "Lauwwarme bulgur-linzensalade met avocado en feta",
+        "extra": "met little gem, tomaat en amandelschaafsel",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "EXTRA GROENTE",
+            "VEGGIE",
+            "POPULAIR",
+            "KLIMAATBEWUST"
+        ],
+        "source": "https://www.hellofresh.be/recipes/lauwwarme-bulgur-linzensalade-met-avocado-en-feta-641c669df3401edfeff1aeaf"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R27_W28_BNL_R4240-3_Main_low-a7d6d671.jpg",
+        "title": "Chicken parmigiana",
+        "extra": "met frietjes en salade",
+        "duration": "45 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "FAMILIE",
+            "KLIMAATBEWUST"
+        ],
+        "source": "https://www.hellofresh.be/recipes/chicken-parmigiana-641c669cfd99775f18f75dcc"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211007_R19_W46_NL_R4297-1_MB_Main_Low-3a4a4a17.jpg",
+        "title": "Gefrituurde kip op z'n Koreaans",
+        "extra": "met zoetzure groenten en broccolirijst",
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "INSPIRATIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/gefrituurde-kip-op-zn-koreaans-641c669bffff206704442714"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R13_W20_BNL_Q5348-4_Main_4low-c30ea65a.jpg",
+        "title": "Sticky gehaktballetjes op z'n Thais",
+        "extra": "met sesamnoedels en pinda's",
+        "duration": "15 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL"
+        ],
+        "source": "https://www.hellofresh.be/recipes/sticky-gehaktballetjes-op-zn-thais-641c6699ffff20670444270e"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF200303_R24_W15_NL_X2460-1_Main_Extra_no_salad_low-8e91bdce.jpg",
+        "title": "Groentelasagne met zelfgemaakte roomsaus",
+        "extra": "met aubergine, spinazie en oude kaas",
+        "duration": "1 uur",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "EXTRA GROENTE",
+            "VEGGIE",
+            "POPULAIR",
+            "KLIMAATBEWUST"
+        ],
+        "source": "https://www.hellofresh.be/recipes/groentelasagne-met-zelfgemaakte-roomsaus-641c6696ffff20670444270b"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210323_R11_W18_NL_Q3377-1_KB_Main_low-a100d3ae.jpg",
+        "title": "Midden-Oosters gekruide groenten met witte grillkaas en rijst",
+        "extra": "met champignons, paprika en frisse yoghurtsaus",
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "EXTRA GROENTE",
+            "LEKKER SNEL",
+            "VEGGIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/midden-oosters-gekruide-groenten-met-witte-grillkaas-en-rijst-641c6695fd99775f18f75dc6"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF210601_R82_W28_NL_X22114163-1_MB_Main_low_remove_meatballs_edit-c24ab7e4.jpg",
+        "title": "Penne in aubergine-roomsaus ",
+        "extra": "met semi-gedroogde tomaten, parmigiano reggiano en vers basilicum",
+        "duration": "20 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL",
+            "VEGGIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/penne-in-aubergine-roomsaus-641c6694fd99775f18f75dc3"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221017_R217_W49_FR_QNL0114-9_KB_Main_low-ae44538b.jpg",
+        "title": "Snelle pasta met gehaktballen",
+        "extra": "met champignons en romige tomatensaus",
+        "duration": "20 minuten",
+        "difficulty": "Makkelijk",
+        "categories": [
+            "EXTRA GROENTE",
+            "LEKKER SNEL",
+            "FAMILIE",
+            "POPULAIR"
+        ],
+        "source": "https://www.hellofresh.be/recipes/snelle-pasta-met-gehaktballen-641c6691fd99775f18f75dc0"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220428_R18_W23_NL_R3094-4_MB_Main_low-98c51bd9.jpg",
+        "title": "Heekfilet \u00e0 la meuni\u00e8re met spinazie",
+        "extra": "met wortel-linzenpuree en geschaafde amandelen",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE",
+            "POPULAIR"
+        ],
+        "source": "https://www.hellofresh.be/recipes/heekfilet-a-la-meuniere-met-spinazie-641c668fffff206704442708"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R74_W15_NL_P5810-1_Main_low-0e0bb6f0.jpg",
+        "title": "Vietnamees ge\u00efnspireerde bao buns met gemarineerde steak",
+        "extra": "met mango en zoetzure groenten",
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [],
+        "source": "https://www.hellofresh.be/recipes/vietnamees-geinspireerde-bao-buns-met-gemarineerde-steak-641c6688fd99775f18f75dba"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211026_R15_W47_NL_R1134-4_KB_remove_cucumbers__Main_Reshot_low-4770e951.jpg",
+        "title": "Duitse biefstuk met champignons",
+        "extra": "met patatjes en frisse salade",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "ORIGINAL"
+        ],
+        "source": "https://www.hellofresh.be/recipes/duitse-biefstuk-met-champignons-641c6681fd99775f18f75db7"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221011_R54_W46_NL_R0331-14_MB_Main_low-142d14df.jpg",
+        "title": "Pitabroodjes met zelfgemaakte tonijnsalade",
+        "extra": "met limoen, kokos en geroosterde bospeen met hazelnoten",
+        "duration": "40 minuten",
+        "difficulty": "Makkelijk",
+        "categories": [
+            "FAMILIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/pitabroodjes-met-zelfgemaakte-tonijnsalade-641c6680ffff206704442702"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R51_W18_BNL_R3927-8_switch_saucage_Main_low-0df1f115.jpg",
+        "title": "Varkensworstjes in honing-mosterdsaus",
+        "extra": "met rozemarijnkrieltjes en wortels",
+        "duration": "40 minuten",
+        "difficulty": "Makkelijk",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/varkensworstjes-in-honing-mosterdsaus-641c667ef3401edfeff1aea2"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220727_R02_W36_NL_R1252-22_KB_Main_low-85c9281e.jpg",
+        "title": "Dahl met zoete aardappel en kokosmelk",
+        "extra": "met pompoenpittensalsa en kruidig naanbrood",
+        "duration": "45 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "FAMILIE",
+            "VEGGIE",
+            "KLIMAATBEWUST"
+        ],
+        "source": "https://www.hellofresh.be/recipes/dahl-met-zoete-aardappel-en-kokosmelk-641c667efd99775f18f75db4"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220829_R07_W39_NL_R3122-5_KB_Main_Partial_Reshot_low-dfa34940.jpg",
+        "title": "Bladerdeegpakketjes met vegetarische kipstukjes",
+        "extra": "met lollo rosso, appel en zure-roomdressing",
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "VEGGIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/bladerdeegpakketjes-met-vegetarische-kipstukjes-641c667cf3401edfeff1ae9f"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211227_R16_W05_NL_R4388-1_MB_Main_low-073a1cc2.jpg",
+        "title": "Courgetterolletjes gevuld met kipgehakt en roomkaas",
+        "extra": "met tomatensaus en zelfgemaakte croutons",
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/courgetterolletjes-gevuld-met-kipgehakt-en-roomkaas-641c667bf3401edfeff1ae9c"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220104_R03_W03_NL_R4915-1_switch_peppers_MB_Main_low-391c0d78.jpg",
+        "title": "Kipworstjes met parelcouscous",
+        "extra": "met labne, sumak en gestoofde groenten in Midden-Oosterse kruiden",
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE",
+            "LEKKER SNEL",
+            "KLIMAATBEWUST"
+        ],
+        "source": "https://www.hellofresh.be/recipes/kipworstjes-met-parelcouscous-641c667afd99775f18f75db1"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220422_R05_W22_NL_R0666-13_MB_Main_low-c4d993e8.jpg",
+        "title": "Mediterraans roerei met mesclunsalade",
+        "extra": "met feta, tomaat en gebakken patatjes",
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "EXTRA GROENTE",
+            "FAMILIE",
+            "VEGGIE",
+            "KLIMAATBEWUST"
+        ],
+        "source": "https://www.hellofresh.be/recipes/mediterraans-roerei-met-mesclunsalade-641c6674f3401edfeff1ae96"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220622_R11_W31_NL_Q5346-1_MB_Main_low-c0980c7c.jpg",
+        "title": "Linguine met pesto en witte grillkaas",
+        "extra": "met geroosterde kerstomaten, tomaat en ui",
+        "duration": "20 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL",
+            "FAMILIE",
+            "VEGGIE",
+            "KLIMAATBEWUST"
+        ],
+        "source": "https://www.hellofresh.be/recipes/linguine-met-pesto-en-witte-grillkaas-641c6673ffff2067044426fc"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R22_W17_NL_Q4933-3_Main_low-040f61b5.jpg",
+        "title": "Rigatoni met rundergehakt in aubergine-roomsaus",
+        "extra": "met tomatentapenade en rucola",
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL",
+            "POPULAIR"
+        ],
+        "source": "https://www.hellofresh.be/recipes/rigatoni-met-rundergehakt-in-aubergine-roomsaus-641c6670fd99775f18f75dae"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R12_W18_BNL_R2710-14_Main_low-f002760f.jpg",
+        "title": "Bulgur met spinazie en harissa",
+        "extra": "met feta, geroosterde wortel en amandelen",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "VEGGIE",
+            "EXTRA GROENTE",
+            "KLIMAATBEWUST",
+            "POPULAIR"
+        ],
+        "source": "https://www.hellofresh.be/recipes/bulgur-met-spinazie-en-harissa-641c6670ffff2067044426f9"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF22112202_R02_W03_NL3241-8_KB_Main_low-7b5c048a.jpg",
+        "title": "Tomatenrisotto met kokosmelk en basilicum",
+        "extra": "met rucola, parmigiano reggiano en zonnebloempitten",
+        "duration": "40 minuten",
+        "difficulty": "Makkelijk",
+        "categories": [
+            "VEGGIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/tomatenrisotto-met-kokosmelk-en-basilicum-641c666df3401edfeff1ae93"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221031_R13_W52_NL_Q2884-8_KB_Main_Low-9f3f197c.jpg",
+        "title": "Romige pasta met kippendijreepjes",
+        "extra": "met courgette, paprika en semi-gedroogde tomaten",
+        "duration": "15 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL"
+        ],
+        "source": "https://www.hellofresh.be/recipes/romige-pasta-met-kippendijreepjes-641c666cfd99775f18f75dab"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211103_R01_W50_NL_R16061619-14_MB_Main_classic_low-52714341.jpg",
+        "title": "Kruidig gehaktbrood met aardappelpuree",
+        "extra": "met gesmoorde prei en cranberrychutney",
+        "duration": "40 minuten",
+        "difficulty": "Moeilijk",
+        "categories": [
+            "FAMILIE",
+            "POPULAIR"
+        ],
+        "source": "https://www.hellofresh.be/recipes/kruidig-gehaktbrood-met-aardappelpuree-641c666cffff2067044426f6"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R30_W28_BNL_R5741-4_Main_low-57ef3c4a.jpg",
+        "title": "Dahl met kokos en paneer",
+        "extra": "met linzen, groenten en naan",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "VEGGIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/dahl-met-kokos-en-paneer-641c666affff2067044426f0"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R31_W31_BNL_Q3583-5_Mainlow-58592c26.jpg",
+        "title": "Wraps met vegetarische kipstukjes en yazzara",
+        "extra": "met avocado en witte kaas",
+        "duration": "15 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "INSPIRATIE",
+            "LEKKER SNEL",
+            "VEGGIE",
+            "KLIMAATBEWUST",
+            "SUMMER-WEEKS",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/wraps-met-vegetarische-kipstukjes-en-yazzara-641c3597f3401edfeff1ae6c"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y32_R19_W32_BNL_R6331-2_Mainlow-3524924f.jpg",
+        "title": "Orzo met geroosterde ratatouille en knoflookbrood",
+        "extra": "met gerookte paprika, witte kaas en vers basilicum",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE",
+            "VEGGIE",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/orzo-met-geroosterde-ratatouille-en-knoflookbrood-641c2b9ff3401edfeff1ae68"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R15_W38_NL_R16101632-13_Main_low-cbbe5fce.jpg",
+        "title": "Heek met Mediterrane paprikastoof",
+        "extra": "met leccino olijven en gebakken patatjes",
+        "duration": "45 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE",
+            "INSPIRATIE",
+            "POPULAIR",
+            "ADD-ON-BESTSELLER"
+        ],
+        "source": "https://www.hellofresh.be/recipes/heek-met-mediterrane-paprikastoof-641c2805f3401edfeff1ae60"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R32_W31_NL_Q3669-3_Main_R__6low-3dc9da81.jpg",
+        "title": "Zomers broodje tonijnsalade",
+        "extra": "met spiegelei, volkoren ciabatta en salade",
+        "duration": "15 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/zomers-broodje-tonijnsalade-641b23f4ffff2067044426ac"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R26_W10_NL_R6329-1_Main_low-a340b11f.jpg",
+        "title": "Rundergehaktballetjes met k\u00f6ftekruiden en krieltjes",
+        "extra": "met Griekse salade met witte kaas en kruidenyoghurt",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/rundergehaktballetjes-met-koftekruiden-en-krieltjes-641b17f3ffff2067044426a2"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R15_W32_NL_R16251650-12_Main_low-27af3658.jpg",
+        "title": "Romige rag\u00f9 bianco met rundergehakt en penne",
+        "extra": "met champignons en courgette",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "FAMILIE",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/romige-ragu-bianco-met-rundergehakt-en-penne-641b1294fd99775f18f75d65"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF220624_R61_W29_NL_RR14261496-16_KB_KB_Main_low-e1fb14c2.jpg",
+        "title": "Kipfilet in mosterd-roomsaus",
+        "extra": "met gebakken patatjes en courgette",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "FAMILIE",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/kipfilet-in-mosterd-roomsaus-641b11cbfd99775f18f75d60"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y32_R24_W32_BNL_Q0121-15_Mainlow-8e321315.jpg",
+        "title": "Naanpizza met aubergine en mozzarella",
+        "extra": "met paprika en basilicumcr\u00e8me",
+        "duration": "25 minuten",
+        "difficulty": "Makkelijk",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE",
+            "LEKKER SNEL",
+            "FAMILIE",
+            "VEGGIE",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/naanpizza-met-aubergine-en-mozzarella-641ad974fd99775f18f75d4e"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R61_W29_BNL_R3898-4_MAINlow-6fce0a5a.jpg",
+        "title": "Kipfilet met bieslookroomsaus",
+        "extra": "met gebakken patatjes en salade",
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL",
+            "FAMILIE",
+            "KLIMAATBEWUST"
+        ],
+        "source": "https://www.hellofresh.be/recipes/kipfilet-met-bieslookroomsaus-641ad6eeffff206704442683"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221108_R08_W51_NL_R4285-3_MB_Main_low-703021de.jpg",
+        "title": "Italiaans gekruide groentestoof met parelcouscous",
+        "extra": "met spinazie, grana padano en zelfgemaakte knoflooktoast",
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "EXTRA GROENTE",
+            "VEGGIE",
+            "EENPANSGERECHT",
+            "KLIMAATBEWUST"
+        ],
+        "source": "https://www.hellofresh.be/recipes/italiaans-gekruide-groentestoof-met-parelcouscous-6419b281f3401edfeff1ae1b"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HelloFresh_Y21_R05_W21_BNL_R1429-19low-6f64d9b2.jpg",
+        "title": "Boekoeloekoeburger met spiegelei",
+        "extra": "met patatjes en salade",
+        "duration": "45 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "VEGGIE",
+            "KLIMAATBEWUST",
+            "FAMILIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/boekoeloekoeburger-met-spiegelei-6419b146ffff20670444264f"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R54_W27_BNL_R15493-1_Main__6low-9511cfb3.jpg",
+        "title": "Volkoren spaghetti met vegan cacciatore saus",
+        "extra": "met aubergine, geroosterde-paprikasaus, olijven en kappertjes",
+        "duration": "30 minuten",
+        "difficulty": "Makkelijk",
+        "categories": [
+            "CALORIEBEWUST",
+            "VEGAN",
+            "EXTRA GROENTE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/volkoren-spaghetti-met-vegan-cacciatore-saus-64199970ffff206704442646"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R54_W33_NL_Q15492-1_express_edit_Main_9_low-85886136.jpg",
+        "title": "Romige gnocchi met blauwe-kaassaus, spinazie en appel",
+        "extra": "met frisse salade met walnoten",
+        "duration": "15 minuten",
+        "difficulty": "Makkelijk",
+        "categories": [
+            "LEKKER SNEL",
+            "VEGGIE",
+            "KLIMAATBEWUST",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/romige-gnocchi-met-blauwe-kaassaus-spinazie-en-appel-64199943f3401edfeff1ae11"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221027_R03_W49_NL_R1427-15_KB_Main_low-d81010e7.jpg",
+        "title": "Midden-Oosters gekruide veggie bowl",
+        "extra": "met zoete aardappel, kikkererwten, spinazie en labne",
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE",
+            "INSPIRATIE",
+            "VEGGIE",
+            "KLIMAATBEWUST"
+        ],
+        "source": "https://www.hellofresh.be/recipes/midden-oosters-gekruide-veggie-bowl-641996d4fd99775f18f75d1e"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211109_R06_W51_NL_R1179-13_MB_Main_baguette_low-01245ea5.jpg",
+        "title": "Zoete-aardappelsoep met witte kaas",
+        "extra": "met Peruaanse kruiden, courgette en cashewstukjes",
+        "duration": "35 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "VEGGIE",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/zoete-aardappelsoep-met-witte-kaas-64198aa9fd99775f18f75d1b"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF221102_R12_W50_NL_R0991-9_KB_Main__1_low-2e7fdb0b.jpg",
+        "title": "Parelcouscous met witte kaas en gepofte kikkererwten",
+        "extra": "met geroosterde groenten en verse kruiden",
+        "duration": "40 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "EXTRA GROENTE",
+            "VEGGIE",
+            "KLIMAATBEWUST",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/parelcouscous-met-witte-kaas-en-gepofte-kikkererwten-64198a74fd99775f18f75d18"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R31_W32_NL_Q15453-1_Main_low-fef131c1.jpg",
+        "title": "Udon noedels met rundergehakt in teriyaki-mascarponesaus",
+        "extra": "met champignons, prei en Thais basilicum",
+        "duration": "15 minuten",
+        "difficulty": "Makkelijk",
+        "categories": [
+            "LEKKER SNEL",
+            "INSPIRATIE",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/udon-noedels-met-rundergehakt-in-teriyaki-mascarponesaus-64186ed86b23cefedf01ca0d"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R221_W14_FR_PFR29804588-1_Main_express_edit_low-ac68da77.jpg",
+        "title": "Pastabowl met chorizo en olijven",
+        "extra": "met paprika en kerstomaten",
+        "duration": "15 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL",
+            "POPULAIR",
+            "KLIMAATBEWUST",
+            "SUMMER-WEEKS",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/pastabowl-met-chorizo-en-olijven-64186cc5fd99775f18f75ce5"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R13_W32_BNL_Q5718-7_Main_low-7830d84b.jpg",
+        "title": "Bulgurbowl met kipgehakt en bieten-tortillachips",
+        "extra": "met Mexicaanse kruiden, avocado en tomaat",
+        "duration": "15 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL",
+            "FAMILIE",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/bulgurbowl-met-kipgehakt-en-bieten-tortillachips-64185d866b23cefedf01ca08"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF211025_R72_W46_NL_P2562-5_MB_Main_low-aacec4bf.jpg",
+        "title": "Klassieke doradefilet met zeekraal en verse pappardelle",
+        "extra": "met broccoli en gebakken kappertjes",
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [],
+        "source": "https://www.hellofresh.be/recipes/klassieke-doradefilet-met-zeekraal-en-verse-pappardelle-64185953f3401edfeff1add2"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R31_W33_BNL_Q15447-1-1_Main_Main_2_low-cb976b74.jpg",
+        "title": "Volkoren spaghetti in romige saus met gehakt",
+        "extra": "met harissa, spinazie en verse peterselie",
+        "duration": "15 minuten",
+        "difficulty": "Makkelijk",
+        "categories": [
+            "LEKKER SNEL",
+            "EXTRA GROENTE",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/volkoren-spaghetti-in-romige-saus-met-gehakt-641831786b23cefedf01c9fc"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R16_W14_NL_Q5141-2_Main_low-a6e73e7b.jpg",
+        "title": "Pita met Oosterse kip, little gem en koolmix",
+        "extra": "met honing-gembermayonaise",
+        "duration": "15 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL",
+            "FAMILIE",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/pita-met-oosterse-kip-little-gem-en-koolmix-641459267bee82308d55142d"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/FC_Y23_L_W09_CA_Photo_1424_low-6b17a2e9.jpg",
+        "title": "Tostada met extra frisse witte-kaasdip, verse koriander en gekruid kipgehakt",
+        "extra": "met cheddar en mais-tomatensalade",
+        "duration": "20 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL",
+            "FAMILIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/tostada-met-extra-frisse-witte-kaasdip-verse-koriander-en-gekruid-kipgehakt-641313806b23cefedf01c8be"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R12_W34_BNL_Q5723-5_Main_low-28a728ed.jpg",
+        "title": "Chili sin carne taco's met paprikasalsa",
+        "extra": "met linzen en witte kaas",
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE",
+            "LEKKER SNEL",
+            "VEGGIE",
+            "KLIMAATBEWUST",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/chili-sin-carne-tacos-met-paprikasalsa-6412ddc4fd78b79c42eb5118"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R07_W09_NL_R6348-1_Main_low-68775695.jpg",
+        "title": "Penne met rode pesto-tomatensaus",
+        "extra": "met geroosterde groenten",
+        "duration": "30 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "EXTRA GROENTE",
+            "FAMILIE",
+            "VEGGIE"
+        ],
+        "source": "https://www.hellofresh.be/recipes/penne-met-rode-pesto-tomatensaus-6411cf58fd78b79c42eb5102"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF_Y23_R07_W13_NL_R6539-1_Main_2_low-1ee3530a.jpg",
+        "title": "Pasta mac &amp; cheese",
+        "extra": "met pesto-kaasblokjes en tomatensalade",
+        "duration": "25 minuten",
+        "difficulty": "Gemiddeld",
+        "categories": [
+            "LEKKER SNEL",
+            "FAMILIE",
+            "VEGGIE",
+            "DINNERS"
+        ],
+        "source": "https://www.hellofresh.be/recipes/pasta-mac-and-cheese-641189a9fd78b79c42eb50e9"
+    },
+    {
+        "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_fill,fl_lossy/hellofresh_s3/image/HF201026_R05_W49_NL_R16541691-6_MB_Main_low-908aec3a.jpg",
+        "title": "Courgette-preisoep met verse dille",
+        "extra": "met zelfgemaakte croutons en pesto-bruschetta's",
+        "duration": "25 minuten",
+        "difficulty": "Makkelijk",
+        "categories": [
+            "CALORIEBEWUST",
+            "EXTRA GROENTE",
+            "LEKKER SNEL",
+            "VEGGIE",
+            "KLIMAATBEWUST"
+        ],
+        "source": "https://www.hellofresh.be/recipes/courgette-preisoep-met-verse-dille-640f2c8c7bee82308d55128b"
     }
 ]
